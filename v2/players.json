@@ -488,6 +488,29 @@
           "id": "SoundcloudLtd.SoundCloudforWindowsBeta_2xc63xn306dnw!App"
         }
       ]
+    },
+    {
+      "id": "dopamine",
+      "name": "Dopamine",
+      "pure": true,
+      "service": false,
+      "discord_application_id": "1285571881667268618",
+      "resources": {
+        "logo": {
+          "jpg": "https://live.musicpresence.app/v2/dopamine.jpg",
+          "ico": "https://live.musicpresence.app/v2/dopamine.ico"
+        }
+      },
+      "applications": [
+        {
+          "interface": "win_winrt",
+          "id": "com.digimezzo.dopamine"
+        },
+        {
+          "interface": "win_winrt",
+          "id": "Dopamine.exe"
+        }
+      ]
     }
   ]
 }
