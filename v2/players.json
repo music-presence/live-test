@@ -389,6 +389,86 @@
           "id": "60490polApki.Next-Player_4j2bpc236qkhp!App"
         }
       ]
+    },
+    {
+      "id": "wacup",
+      "name": "WACUP",
+      "pure": true,
+      "service": false,
+      "discord_application_id": "1285497226835132467",
+      "resources": {
+        "logo": {
+          "jpg": "https://live.musicpresence.app/v2/wacup.jpg",
+          "ico": "https://live.musicpresence.app/v2/wacup.ico"
+        }
+      },
+      "applications": [
+        {
+          "interface": "win_winrt",
+          "id": "wacup.exe"
+        }
+      ]
+    },
+    {
+      "id": "winamp",
+      "name": "Winamp",
+      "pure": true,
+      "service": false,
+      "discord_application_id": "1285501118318645292",
+      "resources": {
+        "logo": {
+          "jpg": "https://live.musicpresence.app/v2/winamp.jpg",
+          "ico": "https://live.musicpresence.app/v2/winamp.ico"
+        }
+      },
+      "applications": [
+        {
+          "interface": "win_winrt",
+          "id": "winamp.exe"
+        }
+      ]
+    },
+    {
+      "id": "nora",
+      "name": "Nora",
+      "pure": true,
+      "service": false,
+      "discord_application_id": "1285504688363409408",
+      "resources": {
+        "logo": {
+          "jpg": "https://live.musicpresence.app/v2/nora.jpg",
+          "ico": "https://live.musicpresence.app/v2/nora.ico"
+        }
+      },
+      "applications": [
+        {
+          "interface": "win_winrt",
+          "id": "Nora.exe"
+        },
+        {
+          "interface": "win_winrt",
+          "id": "com.sandakannipunajith.nora"
+        }
+      ]
+    },
+    {
+      "id": "aimp",
+      "name": "AIMP",
+      "pure": true,
+      "service": false,
+      "discord_application_id": "1285510241810911232",
+      "resources": {
+        "logo": {
+          "jpg": "https://live.musicpresence.app/v2/aimp.jpg",
+          "ico": "https://live.musicpresence.app/v2/aimp.ico"
+        }
+      },
+      "applications": [
+        {
+          "interface": "win_winrt",
+          "id": "AIMP.exe"
+        }
+      ]
     }
   ]
 }
