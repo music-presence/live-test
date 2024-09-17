@@ -530,6 +530,29 @@
           "id": "MediaMonkey.exe"
         }
       ]
+    },
+    {
+      "id": "vlc",
+      "name": "VLC",
+      "pure": false,
+      "service": false,
+      "discord_application_id": "1285586777616420885",
+      "resources": {
+        "logo": {
+          "jpg": "https://live.musicpresence.app/v2/vlc.jpg",
+          "ico": "https://live.musicpresence.app/v2/vlc.ico"
+        }
+      },
+      "applications": [
+        {
+          "interface": "win_winrt",
+          "id": "vlc.exe"
+        },
+        {
+          "interface": "win_winrt",
+          "id": "VideoLAN.VLC_paz6r1rewnh0a!App"
+        }
+      ]
     }
   ]
 }
