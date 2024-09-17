@@ -469,6 +469,25 @@
           "id": "AIMP.exe"
         }
       ]
+    },
+    {
+      "id": "soundcloud",
+      "name": "SoundCloud",
+      "pure": true,
+      "service": true,
+      "discord_application_id": "1285553804518887508",
+      "resources": {
+        "logo": {
+          "jpg": "https://live.musicpresence.app/v2/soundcloud.jpg",
+          "ico": "https://live.musicpresence.app/v2/soundcloud.ico"
+        }
+      },
+      "applications": [
+        {
+          "interface": "win_winrt",
+          "id": "SoundcloudLtd.SoundCloudforWindowsBeta_2xc63xn306dnw!App"
+        }
+      ]
     }
   ]
 }
