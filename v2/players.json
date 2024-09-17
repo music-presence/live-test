@@ -511,6 +511,25 @@
           "id": "Dopamine.exe"
         }
       ]
+    },
+    {
+      "id": "mediamonkey",
+      "name": "MediaMonkey",
+      "pure": true,
+      "service": false,
+      "discord_application_id": "1285577373114437703",
+      "resources": {
+        "logo": {
+          "jpg": "https://live.musicpresence.app/v2/mediamonkey.jpg",
+          "ico": "https://live.musicpresence.app/v2/mediamonkey.ico"
+        }
+      },
+      "applications": [
+        {
+          "interface": "win_winrt",
+          "id": "MediaMonkey.exe"
+        }
+      ]
     }
   ]
 }
