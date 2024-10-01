@@ -553,6 +553,25 @@
           "id": "VideoLAN.VLC_paz6r1rewnh0a!App"
         }
       ]
+    },
+    {
+      "id": "harmonoid",
+      "name": "Harmonoid",
+      "pure": true,
+      "service": false,
+      "discord_application_id": "1290678776958812262",
+      "resources": {
+        "logo": {
+          "jpg": "https://live.musicpresence.app/v2/harmonoid.jpg",
+          "ico": "https://live.musicpresence.app/v2/harmonoid.ico"
+        }
+      },
+      "applications": [
+        {
+          "interface": "win_winrt",
+          "id": "harmonoid.exe"
+        }
+      ]
     }
   ]
 }
