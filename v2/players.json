@@ -572,6 +572,29 @@
           "id": "harmonoid.exe"
         }
       ]
+    },
+    {
+      "id": "pocketcasts",
+      "name": "Pocket Casts",
+      "pure": true,
+      "service": true,
+      "discord_application_id": "1291170916952309782",
+      "resources": {
+        "logo": {
+          "jpg": "https://live.musicpresence.app/v2/pocketcasts.jpg",
+          "ico": "https://live.musicpresence.app/v2/pocketcasts.ico"
+        }
+      },
+      "applications": [
+        {
+          "interface": "win_winrt",
+          "id": "com.squirrel.pocket_casts_desktop.PocketCasts"
+        },
+        {
+          "interface": "win_winrt",
+          "id": "Pocket Casts.exe"
+        }
+      ]
     }
   ]
 }
