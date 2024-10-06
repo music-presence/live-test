@@ -574,15 +574,15 @@
       ]
     },
     {
-      "id": "pocketcasts",
+      "id": "pocket-casts",
       "name": "Pocket Casts",
       "pure": true,
       "service": true,
       "discord_application_id": "1291170916952309782",
       "resources": {
         "logo": {
-          "jpg": "https://live.musicpresence.app/v2/pocketcasts.jpg",
-          "ico": "https://live.musicpresence.app/v2/pocketcasts.ico"
+          "jpg": "https://live.musicpresence.app/v2/pocket-casts.jpg",
+          "ico": "https://live.musicpresence.app/v2/pocket-casts.ico"
         }
       },
       "applications": [
