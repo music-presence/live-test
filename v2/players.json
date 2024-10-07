@@ -285,6 +285,10 @@
           "id": "Deezer.exe"
         },
         {
+          "interface": "win_winrt",
+          "id": "com.deezer.deezer-desktop"
+        },
+        {
           "interface": "mac_mediaremote",
           "id": "com.deezer.deezer-desktop"
         },
@@ -593,6 +597,10 @@
         {
           "interface": "win_winrt",
           "id": "Pocket Casts.exe"
+        },
+        {
+          "interface": "web_domain",
+          "id": "play.pocketcasts.com"
         }
       ]
     }
