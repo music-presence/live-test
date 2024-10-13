@@ -289,6 +289,10 @@
           "id": "com.deezer.deezer-desktop"
         },
         {
+          "interface": "win_winrt",
+          "id": "Deezer.62021768415AF_q7m17pa7q8kj0!Deezer.Music"
+        },
+        {
           "interface": "mac_mediaremote",
           "id": "com.deezer.deezer-desktop"
         },
