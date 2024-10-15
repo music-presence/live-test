@@ -607,6 +607,29 @@
           "id": "play.pocketcasts.com"
         }
       ]
+    },
+    {
+      "id": "yandex-music",
+      "name": "Yandex.Music",
+      "pure": true,
+      "service": true,
+      "discord_application_id": "1295648890623758426",
+      "resources": {
+        "logo": {
+          "jpg": "https://live.musicpresence.app/v2/yandex-music.jpg",
+          "ico": "https://live.musicpresence.app/v2/yandex-music.ico"
+        }
+      },
+      "applications": [
+        {
+          "interface": "win_winrt",
+          "id": "A025C540.Yandex.Music_vfvw9svesycw6!App"
+        },
+        {
+          "interface": "win_winrt",
+          "id": "ru.yandex.desktop.music"
+        }
+      ]
     }
   ]
 }
