@@ -376,6 +376,10 @@
         {
           "interface": "win_winrt",
           "id": "com.github.th-ch.youtube-music"
+        },
+        {
+          "interface": "win_winrt",
+          "id": "music.youtube.com-5929F88E_vezhnr0wkvrcy!App"
         }
       ]
     },
@@ -613,7 +617,7 @@
       "name": "Yandex.Music",
       "pure": true,
       "service": true,
-      "discord_application_id": "1295648890623758426",
+      "discord_application_id": "1295649755535511592",
       "resources": {
         "logo": {
           "jpg": "https://live.musicpresence.app/v2/yandex-music.jpg",
