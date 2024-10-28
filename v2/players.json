@@ -634,6 +634,25 @@
           "id": "ru.yandex.desktop.music"
         }
       ]
+    },
+    {
+      "id": "podurama",
+      "name": "Podurama",
+      "pure": true,
+      "service": true,
+      "discord_application_id": "1300521928309735476",
+      "resources": {
+        "logo": {
+          "jpg": "https://live.musicpresence.app/v2/podurama.jpg",
+          "ico": "https://live.musicpresence.app/v2/podurama.ico"
+        }
+      },
+      "applications": [
+        {
+          "interface": "win_winrt",
+          "id": "Podurama.exe"
+        }
+      ]
     }
   ]
 }
