@@ -657,6 +657,25 @@
           "id": "Podurama.exe"
         }
       ]
+    },
+    {
+      "id": "youtube",
+      "name": "YouTube",
+      "pure": false,
+      "service": true,
+      "discord_application_id": "1301894190904639559",
+      "resources": {
+        "logo": {
+          "jpg": "https://live.musicpresence.app/v2/youtube.jpg",
+          "ico": "https://live.musicpresence.app/v2/youtube.ico"
+        }
+      },
+      "applications": [
+        {
+          "interface": "win_winrt",
+          "id": "YouTube.exe"
+        }
+      ]
     }
   ]
 }
