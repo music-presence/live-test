@@ -498,6 +498,10 @@
         {
           "interface": "win_winrt",
           "id": "SoundcloudLtd.SoundCloudforWindowsBeta_2xc63xn306dnw!App"
+        },
+        {
+          "interface": "win_winrt",
+          "id": "SoundCloud.exe"
         }
       ]
     },
