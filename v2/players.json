@@ -676,6 +676,25 @@
           "id": "YouTube.exe"
         }
       ]
+    },
+    {
+      "id": "cider",
+      "name": "Cider",
+      "pure": true,
+      "service": true,
+      "discord_application_id": "1302023626018787379",
+      "resources": {
+        "logo": {
+          "jpg": "https://live.musicpresence.app/v2/cider.jpg",
+          "ico": "https://live.musicpresence.app/v2/cider.ico"
+        }
+      },
+      "applications": [
+        {
+          "interface": "mac_mediaremote",
+          "id": "sh.cider.electron"
+        }
+      ]
     }
   ]
 }
