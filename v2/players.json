@@ -718,6 +718,29 @@
           "id": "io.mpv"
         }
       ]
+    },
+    {
+      "id": "itunes",
+      "name": "iTunes",
+      "pure": true,
+      "service": false,
+      "discord_application_id": "1302986144643809310",
+      "resources": {
+        "logo": {
+          "jpg": "https://live.musicpresence.app/v2/itunes.jpg",
+          "ico": "https://live.musicpresence.app/v2/itunes.ico"
+        }
+      },
+      "applications": [
+        {
+          "interface": "win_winrt",
+          "id": "iTunes.exe"
+        },
+        {
+          "interface": "win_winrt",
+          "id": "iTunes.SMTC.exe"
+        }
+      ]
     }
   ]
 }
