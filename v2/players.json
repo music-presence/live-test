@@ -695,6 +695,29 @@
           "id": "sh.cider.electron"
         }
       ]
+    },
+    {
+      "id": "mpv",
+      "name": "mpv",
+      "pure": false,
+      "service": false,
+      "discord_application_id": "1302982880515063908",
+      "resources": {
+        "logo": {
+          "jpg": "https://live.musicpresence.app/v2/mpv.jpg",
+          "ico": "https://live.musicpresence.app/v2/mpv.ico"
+        }
+      },
+      "applications": [
+        {
+          "interface": "win_winrt",
+          "id": "mpv.exe"
+        },
+        {
+          "interface": "mac_mediaremote",
+          "id": "io.mpv"
+        }
+      ]
     }
   ]
 }
