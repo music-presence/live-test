@@ -741,6 +741,25 @@
           "id": "iTunes.SMTC.exe"
         }
       ]
+    },
+    {
+      "id": "jellyfin",
+      "name": "Jellyfin",
+      "pure": false,
+      "service": false,
+      "discord_application_id": "1304291534463832215",
+      "resources": {
+        "logo": {
+          "jpg": "https://live.musicpresence.app/v2/jellyfin.jpg",
+          "ico": "https://live.musicpresence.app/v2/jellyfin.ico"
+        }
+      },
+      "applications": [
+        {
+          "interface": "win_winrt",
+          "id": "JellyfinMediaPlayer.exe"
+        }
+      ]
     }
   ]
 }
