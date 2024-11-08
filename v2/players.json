@@ -693,6 +693,10 @@
         {
           "interface": "mac_mediaremote",
           "id": "sh.cider.electron"
+        },
+        {
+          "interface": "win_winrt",
+          "id": "27554FireDevElijahKlauman.CiderEA_270bejk4xgzqp!App"
         }
       ]
     },
