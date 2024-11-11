@@ -384,6 +384,10 @@
         {
           "interface": "win_winrt",
           "id": "music.youtube.com-5929F88E_vezhnr0wkvrcy!App"
+        },
+        {
+          "interface": "win_winrt",
+          "id": "music.youtube.com-5929F88E_vezhnr0wkvrcy!APP"
         }
       ]
     },
@@ -403,6 +407,10 @@
         {
           "interface": "win_winrt",
           "id": "60490polApki.Next-Player_4j2bpc236qkhp!App"
+        },
+        {
+          "interface": "win_winrt",
+          "id": "60490polApki.Next-Player_4j2bpc236qkhp!APP"
         }
       ]
     },
@@ -505,6 +513,10 @@
         },
         {
           "interface": "win_winrt",
+          "id": "SoundcloudLtd.SoundCloudforWindowsBeta_2xc63xn306dnw!APP"
+        },
+        {
+          "interface": "win_winrt",
           "id": "SoundCloud.exe"
         }
       ]
@@ -571,6 +583,10 @@
         {
           "interface": "win_winrt",
           "id": "VideoLAN.VLC_paz6r1rewnh0a!App"
+        },
+        {
+          "interface": "win_winrt",
+          "id": "VideoLAN.VLC_paz6r1rewnh0a!APP"
         }
       ]
     },
@@ -639,6 +655,10 @@
         },
         {
           "interface": "win_winrt",
+          "id": "A025C540.Yandex.Music_vfvw9svesycw6!APP"
+        },
+        {
+          "interface": "win_winrt",
           "id": "ru.yandex.desktop.music"
         }
       ]
@@ -701,6 +721,10 @@
         {
           "interface": "win_winrt",
           "id": "27554FireDevElijahKlauman.CiderEA_270bejk4xgzqp!App"
+        },
+        {
+          "interface": "win_winrt",
+          "id": "27554FireDevElijahKlauman.CiderEA_270bejk4xgzqp!APP"
         }
       ]
     },
