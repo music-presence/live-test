@@ -328,6 +328,10 @@
           "id": "AppleInc.AppleMusicWin_nzyj5cx40ttqa!App"
         },
         {
+          "interface": "win_winrt",
+          "id": "AppleInc.AppleMusicWin_nzyj5cx40ttqa!APP"
+        },
+        {
           "interface": "web_domain",
           "id": "music.apple.com"
         }
