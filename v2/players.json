@@ -37,6 +37,10 @@
         {
           "interface": "web_domain",
           "id": "listen.tidal.com"
+        },
+        {
+          "interface": "web_domain",
+          "id": "listen.stage.tidal.com"
         }
       ]
     },
@@ -790,6 +794,25 @@
         {
           "interface": "win_winrt",
           "id": "JellyfinMediaPlayer.exe"
+        }
+      ]
+    },
+    {
+      "id": "apple-podcasts",
+      "name": "Apple Podcasts",
+      "pure": true,
+      "service": true,
+      "discord_application_id": "1308949234829234228",
+      "resources": {
+        "logo": {
+          "jpg": "https://live.musicpresence.app/v2/apple-podcasts.jpg",
+          "ico": "https://live.musicpresence.app/v2/apple-podcasts.ico"
+        }
+      },
+      "applications": [
+        {
+          "interface": "mac_mediaremote",
+          "id": "com.apple.podcasts"
         }
       ]
     }
