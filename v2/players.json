@@ -945,6 +945,120 @@
           "id": "strawberry"
         }
       ]
+    },
+    {
+      "id": "clementine",
+      "name": "Clementine",
+      "pure": true,
+      "service": false,
+      "discord_application_id": "1311739842790686740",
+      "resources": {
+        "logo": {
+          "jpg": "https://live.musicpresence.app/v2/clementine.jpg",
+          "ico": "https://live.musicpresence.app/v2/clementine.ico"
+        }
+      },
+      "applications": [
+        {
+          "interface": "lin_mpris",
+          "id": "clementine"
+        }
+      ]
+    },
+    {
+      "id": "tauon",
+      "name": "Tauon",
+      "pure": true,
+      "service": false,
+      "discord_application_id": "1311745484028772412",
+      "resources": {
+        "logo": {
+          "jpg": "https://live.musicpresence.app/v2/tauon.jpg",
+          "ico": "https://live.musicpresence.app/v2/tauon.ico"
+        }
+      },
+      "applications": [
+        {
+          "interface": "lin_mpris",
+          "id": "tauon"
+        }
+      ]
+    },
+    {
+      "id": "cmus",
+      "name": "cmus",
+      "pure": true,
+      "service": false,
+      "discord_application_id": "1311746369626832896",
+      "resources": {
+        "logo": {
+          "jpg": "https://live.musicpresence.app/v2/cmus.jpg",
+          "ico": "https://live.musicpresence.app/v2/cmus.ico"
+        }
+      },
+      "applications": [
+        {
+          "interface": "lin_mpris",
+          "id": "cmus"
+        }
+      ]
+    },
+    {
+      "id": "kew",
+      "name": "kew",
+      "pure": true,
+      "service": false,
+      "discord_application_id": "1311751552607715348",
+      "resources": {
+        "logo": {
+          "jpg": "https://live.musicpresence.app/v2/kew.jpg",
+          "ico": "https://live.musicpresence.app/v2/kew.ico"
+        }
+      },
+      "applications": [
+        {
+          "interface": "lin_mpris",
+          "id": "kew"
+        }
+      ]
+    },
+    {
+      "id": "fooyin",
+      "name": "fooyin",
+      "pure": true,
+      "service": false,
+      "discord_application_id": "1311751990245720115",
+      "resources": {
+        "logo": {
+          "jpg": "https://live.musicpresence.app/v2/fooyin.jpg",
+          "ico": "https://live.musicpresence.app/v2/fooyin.ico"
+        }
+      },
+      "applications": [
+        {
+          "interface": "lin_mpris",
+          "id": "fooyin"
+        }
+      ]
+    },
+    {
+      "id": "elisa",
+      "name": "elisa",
+      "pure": true,
+      "service": false,
+      "discord_application_id": "1311754436711813180",
+      "resources": {
+        "logo": {
+          "jpg": "https://live.musicpresence.app/v2/elisa.jpg",
+          "ico": "https://live.musicpresence.app/v2/elisa.ico"
+        }
+      },
+      "applications": [
+        {
+          "interface": "lin_mpris",
+          "id": "elisa"
+        }
+      ]
     }
   ]
 }
