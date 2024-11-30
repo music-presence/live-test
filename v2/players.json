@@ -36,6 +36,10 @@
         },
         {
           "interface": "web_domain",
+          "id": "tidal.com"
+        },
+        {
+          "interface": "web_domain",
           "id": "listen.tidal.com"
         },
         {
@@ -64,6 +68,18 @@
         {
           "interface": "win_winrt",
           "id": "com.squirrel.Qobuz.Qobuz"
+        },
+        {
+          "interface": "web_domain",
+          "id": "qobuz.com"
+        },
+        {
+          "interface": "web_domain",
+          "id": "play.qobuz.com"
+        },
+        {
+          "interface": "web_domain",
+          "id": "open.qobuz.com"
         }
       ]
     },
@@ -530,6 +546,14 @@
         {
           "interface": "win_winrt",
           "id": "SoundCloud.exe"
+        },
+        {
+          "interface": "web_domain",
+          "id": "soundcloud.com"
+        },
+        {
+          "interface": "web_domain",
+          "id": "snd.sc"
         }
       ]
     },
@@ -658,7 +682,7 @@
     },
     {
       "id": "yandex-music",
-      "name": "Yandex.Music",
+      "name": "Yandex Music",
       "pure": true,
       "service": true,
       "discord_application_id": "1295649755535511592",
@@ -680,6 +704,14 @@
         {
           "interface": "win_winrt",
           "id": "ru.yandex.desktop.music"
+        },
+        {
+          "interface": "win_winrt",
+          "id": "music.yandex.com"
+        },
+        {
+          "interface": "win_winrt",
+          "id": "music.yandex.ru"
         }
       ]
     },
@@ -699,6 +731,10 @@
         {
           "interface": "win_winrt",
           "id": "Podurama.exe"
+        },
+        {
+          "interface": "web_domain",
+          "id": "podurama.com"
         }
       ]
     },
@@ -718,6 +754,14 @@
         {
           "interface": "win_winrt",
           "id": "YouTube.exe"
+        },
+        {
+          "interface": "web_domain",
+          "id": "youtube.com"
+        },
+        {
+          "interface": "web_domain",
+          "id": "youtu.be"
         }
       ]
     },
@@ -829,6 +873,10 @@
         {
           "interface": "mac_mediaremote",
           "id": "com.apple.podcasts"
+        },
+        {
+          "interface": "web_domain",
+          "id": "podcasts.apple.com"
         }
       ]
     },
@@ -1043,7 +1091,7 @@
     },
     {
       "id": "elisa",
-      "name": "elisa",
+      "name": "Elisa",
       "pure": true,
       "service": false,
       "discord_application_id": "1311754436711813180",
