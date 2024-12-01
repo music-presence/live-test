@@ -1149,6 +1149,25 @@
           "id": "com.kakaoent.melon.player"
         }
       ]
+    },
+    {
+      "id": "spotube",
+      "name": "Spotube",
+      "pure": true,
+      "service": false,
+      "discord_application_id": "1312889123228483714",
+      "resources": {
+        "logo": {
+          "jpg": "https://live.musicpresence.app/v2/spotube.jpg",
+          "ico": "https://live.musicpresence.app/v2/spotube.ico"
+        }
+      },
+      "applications": [
+        {
+          "interface": "win_winrt",
+          "id": "spotube.exe"
+        }
+      ]
     }
   ]
 }
