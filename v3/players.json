@@ -204,6 +204,27 @@
       }
     },
     {
+      "id": "cmus",
+      "name": "cmus",
+      "url": "https://cmus.github.io",
+      "sources": {
+        "lin_mpris": [
+          "cmus"
+        ]
+      },
+      "attributes": {
+        "pure": true,
+        "service": false
+      },
+      "content": [
+        "audio",
+        "audio_music"
+      ],
+      "extra": {
+        "discord_application_id": "1311746369626832896"
+      }
+    },
+    {
       "id": "deezer",
       "name": "Deezer",
       "url": "https://deezer.com",
@@ -470,6 +491,27 @@
       ],
       "extra": {
         "discord_application_id": "1304291534463832215"
+      }
+    },
+    {
+      "id": "kew",
+      "name": "kew",
+      "url": "https://github.com/ravachol/kew",
+      "sources": {
+        "lin_mpris": [
+          "kew"
+        ]
+      },
+      "attributes": {
+        "pure": true,
+        "service": false
+      },
+      "content": [
+        "audio",
+        "audio_music"
+      ],
+      "extra": {
+        "discord_application_id": "1311751552607715348"
       }
     },
     {
