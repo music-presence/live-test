@@ -869,6 +869,27 @@
       }
     },
     {
+      "id": "test",
+      "name": "TEST",
+      "url": "https://jellyfin.org",
+      "sources": {
+        "win_winrt": [
+          "test.exe"
+        ]
+      },
+      "attributes": {
+        "pure": false,
+        "service": false
+      },
+      "content": [
+        "video",
+        "audio"
+      ],
+      "extra": {
+        "discord_application_id": "1304291534463832215"
+      }
+    },
+    {
       "id": "tidal",
       "name": "TIDAL",
       "url": "https://tidal.com",
