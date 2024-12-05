@@ -416,6 +416,10 @@
         {
           "interface": "lin_mpris",
           "id": "YoutubeMusic"
+        },
+        {
+          "interface": "mac_mediaremote",
+          "id": "com.github.th-ch.youtube-music"
         }
       ]
     },
