@@ -1094,7 +1094,8 @@
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://live.musicpresence.app/v3/icons/aimp/tray-menu.ico"
+        "url": "https://live.musicpresence.app/v3/icons/aimp/tray-menu.ico",
+        "md5": "46f03aa7a1ab8b5f1f6444c5d39c2058"
       }
     ],
     "amazon-music": [
@@ -1111,7 +1112,8 @@
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://live.musicpresence.app/v3/icons/amazon-music/tray-menu.ico"
+        "url": "https://live.musicpresence.app/v3/icons/amazon-music/tray-menu.ico",
+        "md5": "9d45d9bea953e20065c51d5f6152ea4b"
       }
     ],
     "amberol": [
@@ -1128,7 +1130,8 @@
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://live.musicpresence.app/v3/icons/amberol/tray-menu.ico"
+        "url": "https://live.musicpresence.app/v3/icons/amberol/tray-menu.ico",
+        "md5": "c63e1a89e73e7cbd18279226775b8cf4"
       }
     ],
     "apple-music": [
@@ -1145,7 +1148,8 @@
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://live.musicpresence.app/v3/icons/apple-music/tray-menu.ico"
+        "url": "https://live.musicpresence.app/v3/icons/apple-music/tray-menu.ico",
+        "md5": "108ee73628984b1cbf271fef89fe6ec5"
       }
     ],
     "apple-podcasts": [
@@ -1162,7 +1166,8 @@
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://live.musicpresence.app/v3/icons/apple-podcasts/tray-menu.ico"
+        "url": "https://live.musicpresence.app/v3/icons/apple-podcasts/tray-menu.ico",
+        "md5": "1814e6e642d8a22293a0db5734f506d1"
       }
     ],
     "cider": [
@@ -1179,7 +1184,8 @@
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://live.musicpresence.app/v3/icons/cider/tray-menu.ico"
+        "url": "https://live.musicpresence.app/v3/icons/cider/tray-menu.ico",
+        "md5": "f56e1458cd24edbe6136df62161c03ff"
       }
     ],
     "clementine": [
@@ -1196,7 +1202,8 @@
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://live.musicpresence.app/v3/icons/clementine/tray-menu.ico"
+        "url": "https://live.musicpresence.app/v3/icons/clementine/tray-menu.ico",
+        "md5": "b2cee3a73df857c3d4ae7d4b8a6b73bb"
       }
     ],
     "deezer": [
@@ -1213,7 +1220,8 @@
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://live.musicpresence.app/v3/icons/deezer/tray-menu.ico"
+        "url": "https://live.musicpresence.app/v3/icons/deezer/tray-menu.ico",
+        "md5": "fd76fa56b7ceb3ff308b49c7e0d35e0e"
       }
     ],
     "dopamine": [
@@ -1230,7 +1238,8 @@
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://live.musicpresence.app/v3/icons/dopamine/tray-menu.ico"
+        "url": "https://live.musicpresence.app/v3/icons/dopamine/tray-menu.ico",
+        "md5": "0a9af67b1178f75e4104cea65610ae77"
       }
     ],
     "elisa": [
@@ -1247,7 +1256,8 @@
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://live.musicpresence.app/v3/icons/elisa/tray-menu.ico"
+        "url": "https://live.musicpresence.app/v3/icons/elisa/tray-menu.ico",
+        "md5": "23453911fbd0dd78f9f15a9e030e57d5"
       }
     ],
     "foobar2000": [
@@ -1264,7 +1274,8 @@
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://live.musicpresence.app/v3/icons/foobar2000/tray-menu.ico"
+        "url": "https://live.musicpresence.app/v3/icons/foobar2000/tray-menu.ico",
+        "md5": "73b9a1c1563fda9d32996385d74c1f94"
       }
     ],
     "fooyin": [
@@ -1281,7 +1292,8 @@
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://live.musicpresence.app/v3/icons/fooyin/tray-menu.ico"
+        "url": "https://live.musicpresence.app/v3/icons/fooyin/tray-menu.ico",
+        "md5": "97d14a8aea4633566658a759b3daa730"
       }
     ],
     "g4music": [
@@ -1298,7 +1310,8 @@
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://live.musicpresence.app/v3/icons/g4music/tray-menu.ico"
+        "url": "https://live.musicpresence.app/v3/icons/g4music/tray-menu.ico",
+        "md5": "293ae6d9cddcd23fed76dfb304181ceb"
       }
     ],
     "gnome-lollypop": [
@@ -1315,7 +1328,8 @@
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://live.musicpresence.app/v3/icons/gnome-lollypop/tray-menu.ico"
+        "url": "https://live.musicpresence.app/v3/icons/gnome-lollypop/tray-menu.ico",
+        "md5": "4b4a9c0b5798cbb689dce755b701ac71"
       }
     ],
     "gnome-music": [
@@ -1332,7 +1346,8 @@
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://live.musicpresence.app/v3/icons/gnome-music/tray-menu.ico"
+        "url": "https://live.musicpresence.app/v3/icons/gnome-music/tray-menu.ico",
+        "md5": "2de2084c6581df1afa3179bd82f78b1f"
       }
     ],
     "harmonoid": [
@@ -1349,7 +1364,8 @@
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://live.musicpresence.app/v3/icons/harmonoid/tray-menu.ico"
+        "url": "https://live.musicpresence.app/v3/icons/harmonoid/tray-menu.ico",
+        "md5": "0dd5bdf5abfe192d963fc0e5e1a98b61"
       }
     ],
     "harmony": [
@@ -1366,7 +1382,8 @@
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://live.musicpresence.app/v3/icons/harmony/tray-menu.ico"
+        "url": "https://live.musicpresence.app/v3/icons/harmony/tray-menu.ico",
+        "md5": "ec084bfa99d0ed48f3aeff60b066cab3"
       }
     ],
     "itunes": [
@@ -1383,7 +1400,8 @@
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://live.musicpresence.app/v3/icons/itunes/tray-menu.ico"
+        "url": "https://live.musicpresence.app/v3/icons/itunes/tray-menu.ico",
+        "md5": "907bac965b59037265f9e913df8012d8"
       }
     ],
     "jellyfin": [
@@ -1400,7 +1418,8 @@
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://live.musicpresence.app/v3/icons/jellyfin/tray-menu.ico"
+        "url": "https://live.musicpresence.app/v3/icons/jellyfin/tray-menu.ico",
+        "md5": "13a304aed8e3c97328a410ad483c782d"
       }
     ],
     "mediamonkey": [
@@ -1417,7 +1436,8 @@
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://live.musicpresence.app/v3/icons/mediamonkey/tray-menu.ico"
+        "url": "https://live.musicpresence.app/v3/icons/mediamonkey/tray-menu.ico",
+        "md5": "4afcf3fca6030d1b0900845d8af6be4e"
       }
     ],
     "melon": [
@@ -1434,7 +1454,8 @@
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://live.musicpresence.app/v3/icons/melon/tray-menu.ico"
+        "url": "https://live.musicpresence.app/v3/icons/melon/tray-menu.ico",
+        "md5": "084b43d6e97056d1d1d73a4589d40adc"
       }
     ],
     "mpv": [
@@ -1451,7 +1472,8 @@
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://live.musicpresence.app/v3/icons/mpv/tray-menu.ico"
+        "url": "https://live.musicpresence.app/v3/icons/mpv/tray-menu.ico",
+        "md5": "b9aeae524b74ffa93673599d84ca9897"
       }
     ],
     "musicbee": [
@@ -1468,7 +1490,8 @@
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://live.musicpresence.app/v3/icons/musicbee/tray-menu.ico"
+        "url": "https://live.musicpresence.app/v3/icons/musicbee/tray-menu.ico",
+        "md5": "9ca3fe3f5fc97743e1455b8f436f9ac6"
       }
     ],
     "next-player": [
@@ -1485,7 +1508,8 @@
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://live.musicpresence.app/v3/icons/next-player/tray-menu.ico"
+        "url": "https://live.musicpresence.app/v3/icons/next-player/tray-menu.ico",
+        "md5": "e65efe49fada79b1bf4a31375a90f151"
       }
     ],
     "nora": [
@@ -1502,7 +1526,8 @@
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://live.musicpresence.app/v3/icons/nora/tray-menu.ico"
+        "url": "https://live.musicpresence.app/v3/icons/nora/tray-menu.ico",
+        "md5": "3fedd92965a91f1414530eb53ecda262"
       }
     ],
     "pocket-casts": [
@@ -1519,7 +1544,8 @@
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://live.musicpresence.app/v3/icons/pocket-casts/tray-menu.ico"
+        "url": "https://live.musicpresence.app/v3/icons/pocket-casts/tray-menu.ico",
+        "md5": "b05ddc537999b64feaee59abd5866486"
       }
     ],
     "podurama": [
@@ -1536,7 +1562,8 @@
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://live.musicpresence.app/v3/icons/podurama/tray-menu.ico"
+        "url": "https://live.musicpresence.app/v3/icons/podurama/tray-menu.ico",
+        "md5": "8c78d74a742068278c5b9438e09fec6d"
       }
     ],
     "qobuz": [
@@ -1553,7 +1580,8 @@
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://live.musicpresence.app/v3/icons/qobuz/tray-menu.ico"
+        "url": "https://live.musicpresence.app/v3/icons/qobuz/tray-menu.ico",
+        "md5": "ca523146618c71043c89170e4620d6a4"
       }
     ],
     "recordbox": [
@@ -1570,7 +1598,8 @@
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://live.musicpresence.app/v3/icons/recordbox/tray-menu.ico"
+        "url": "https://live.musicpresence.app/v3/icons/recordbox/tray-menu.ico",
+        "md5": "d7128574975c58620e5678693dba96d8"
       }
     ],
     "soundcloud": [
@@ -1587,7 +1616,8 @@
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://live.musicpresence.app/v3/icons/soundcloud/tray-menu.ico"
+        "url": "https://live.musicpresence.app/v3/icons/soundcloud/tray-menu.ico",
+        "md5": "3d7af948c84ef2e5aaa34fdd08b38886"
       }
     ],
     "spotify": [
@@ -1604,7 +1634,8 @@
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://live.musicpresence.app/v3/icons/spotify/tray-menu.ico"
+        "url": "https://live.musicpresence.app/v3/icons/spotify/tray-menu.ico",
+        "md5": "5f8e1ff7f26d40d945e0730fd1890762"
       }
     ],
     "spotube": [
@@ -1621,7 +1652,8 @@
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://live.musicpresence.app/v3/icons/spotube/tray-menu.ico"
+        "url": "https://live.musicpresence.app/v3/icons/spotube/tray-menu.ico",
+        "md5": "7fc39b2bcd4110d1078df9aad7ef75d0"
       }
     ],
     "strawberry": [
@@ -1638,7 +1670,8 @@
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://live.musicpresence.app/v3/icons/strawberry/tray-menu.ico"
+        "url": "https://live.musicpresence.app/v3/icons/strawberry/tray-menu.ico",
+        "md5": "6b9e9e8b40c84573842821a2071153d4"
       }
     ],
     "tauon": [
@@ -1655,7 +1688,8 @@
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://live.musicpresence.app/v3/icons/tauon/tray-menu.ico"
+        "url": "https://live.musicpresence.app/v3/icons/tauon/tray-menu.ico",
+        "md5": "3765851d861e9e351e189814226cb40d"
       }
     ],
     "tidal": [
@@ -1672,7 +1706,8 @@
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://live.musicpresence.app/v3/icons/tidal/tray-menu.ico"
+        "url": "https://live.musicpresence.app/v3/icons/tidal/tray-menu.ico",
+        "md5": "15b2cd691bfac19f42a7db9de468b2f8"
       }
     ],
     "vlc": [
@@ -1689,7 +1724,8 @@
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://live.musicpresence.app/v3/icons/vlc/tray-menu.ico"
+        "url": "https://live.musicpresence.app/v3/icons/vlc/tray-menu.ico",
+        "md5": "3edb7239d0fe8801ea5680a175fb0ef1"
       }
     ],
     "wacup": [
@@ -1706,7 +1742,8 @@
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://live.musicpresence.app/v3/icons/wacup/tray-menu.ico"
+        "url": "https://live.musicpresence.app/v3/icons/wacup/tray-menu.ico",
+        "md5": "b9b0914324e0fa5dee3b14a38673a6de"
       }
     ],
     "winamp": [
@@ -1723,7 +1760,8 @@
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://live.musicpresence.app/v3/icons/winamp/tray-menu.ico"
+        "url": "https://live.musicpresence.app/v3/icons/winamp/tray-menu.ico",
+        "md5": "8721dd5d9f918ddae31610705e43dd7b"
       }
     ],
     "windows-media-player": [
@@ -1740,7 +1778,8 @@
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://live.musicpresence.app/v3/icons/windows-media-player/tray-menu.ico"
+        "url": "https://live.musicpresence.app/v3/icons/windows-media-player/tray-menu.ico",
+        "md5": "715618d30ab8ba04a1578baa1e9f1930"
       }
     ],
     "yandex-music": [
@@ -1757,7 +1796,8 @@
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://live.musicpresence.app/v3/icons/yandex-music/tray-menu.ico"
+        "url": "https://live.musicpresence.app/v3/icons/yandex-music/tray-menu.ico",
+        "md5": "0d6bae9c4100ccfcef3ce9f999388e34"
       }
     ],
     "youtube": [
@@ -1774,7 +1814,8 @@
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://live.musicpresence.app/v3/icons/youtube/tray-menu.ico"
+        "url": "https://live.musicpresence.app/v3/icons/youtube/tray-menu.ico",
+        "md5": "3c9ad45ca4ad53df9a3bad99b259c70c"
       }
     ],
     "youtube-music": [
@@ -1791,7 +1832,8 @@
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://live.musicpresence.app/v3/icons/youtube-music/tray-menu.ico"
+        "url": "https://live.musicpresence.app/v3/icons/youtube-music/tray-menu.ico",
+        "md5": "e1bd46fbf9ddc51b6c7402b9f4b7bc42"
       }
     ]
   }
