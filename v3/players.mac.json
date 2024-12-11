@@ -150,6 +150,27 @@
       }
     },
     {
+      "id": "dopamine",
+      "name": "Dopamine",
+      "url": "https://github.com/digimezzo/dopamine",
+      "sources": {
+        "mac_mediaremote": [
+          "com.digimezzo.dopamine"
+        ]
+      },
+      "attributes": {
+        "pure": true,
+        "service": false
+      },
+      "content": [
+        "audio",
+        "audio_music"
+      ],
+      "extra": {
+        "discord_application_id": "1285571881667268618"
+      }
+    },
+    {
       "id": "foobar2000",
       "name": "foobar2000",
       "url": "https://www.foobar2000.org",
@@ -510,6 +531,24 @@
         "type": "ico",
         "url": "https://live.musicpresence.app/v3/icons/deezer/tray-menu.ico",
         "md5": "fd76fa56b7ceb3ff308b49c7e0d35e0e"
+      }
+    ],
+    "dopamine": [
+      {
+        "label": "discord-large-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/dopamine/discord-large-image.png"
+      },
+      {
+        "label": "discord-small-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/dopamine/discord-small-image.png"
+      },
+      {
+        "label": "tray-menu",
+        "type": "ico",
+        "url": "https://live.musicpresence.app/v3/icons/dopamine/tray-menu.ico",
+        "md5": "0a9af67b1178f75e4104cea65610ae77"
       }
     ],
     "foobar2000": [

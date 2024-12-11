@@ -262,6 +262,9 @@
         "win_winrt": [
           "com.digimezzo.dopamine",
           "Dopamine.exe"
+        ],
+        "mac_mediaremote": [
+          "com.digimezzo.dopamine"
         ]
       },
       "attributes": {
