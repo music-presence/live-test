@@ -345,6 +345,27 @@
       }
     },
     {
+      "id": "moosync",
+      "name": "Moosync",
+      "url": "https://moosync.app",
+      "sources": {
+        "win_winrt": [
+          "Moosync.exe"
+        ]
+      },
+      "attributes": {
+        "pure": true,
+        "service": false
+      },
+      "content": [
+        "audio",
+        "audio_music"
+      ],
+      "extra": {
+        "discord_application_id": "1285510241810911232"
+      }
+    },
+    {
       "id": "mpv",
       "name": "mpv",
       "url": "https://mpv.io",
@@ -1031,6 +1052,24 @@
         "type": "ico",
         "url": "https://live.musicpresence.app/v3/icons/melon/tray-menu.ico",
         "md5": "084b43d6e97056d1d1d73a4589d40adc"
+      }
+    ],
+    "moosync": [
+      {
+        "label": "discord-large-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/moosync/discord-large-image.png"
+      },
+      {
+        "label": "discord-small-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/moosync/discord-small-image.png"
+      },
+      {
+        "label": "tray-menu",
+        "type": "ico",
+        "url": "https://live.musicpresence.app/v3/icons/moosync/tray-menu.ico",
+        "md5": "4b4257f7b39956836bbeaf77f1bb67a6"
       }
     ],
     "mpv": [
