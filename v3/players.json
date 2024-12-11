@@ -586,6 +586,9 @@
       "sources": {
         "win_winrt": [
           "Moosync.exe"
+        ],
+        "mac_mediaremote": [
+          "app.moosync.Moosync"
         ]
       },
       "attributes": {
