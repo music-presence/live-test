@@ -557,6 +557,29 @@
       }
     },
     {
+      "id": "miniradioplayer",
+      "name": "Mini Radio Player",
+      "url": "https://www.miniradioplayer.net",
+      "sources": {
+        "win_winrt": [
+          "28287mfYSoftware.MiniRadioPlayer_wvfna79ywx00a!App",
+          "28287mfYSoftware.MiniRadioPlayer_wvfna79ywx00a!APP"
+        ]
+      },
+      "attributes": {
+        "pure": false,
+        "service": false
+      },
+      "content": [
+        "audio",
+        "audio_radio",
+        "audio_music"
+      ],
+      "extra": {
+        "discord_application_id": "1285510241810911232"
+      }
+    },
+    {
       "id": "moosync",
       "name": "Moosync",
       "url": "https://moosync.app",
@@ -1477,6 +1500,24 @@
         "type": "ico",
         "url": "https://live.musicpresence.app/v3/icons/melon/tray-menu.ico",
         "md5": "084b43d6e97056d1d1d73a4589d40adc"
+      }
+    ],
+    "miniradioplayer": [
+      {
+        "label": "discord-large-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/miniradioplayer/discord-large-image.png"
+      },
+      {
+        "label": "discord-small-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/miniradioplayer/discord-small-image.png"
+      },
+      {
+        "label": "tray-menu",
+        "type": "ico",
+        "url": "https://live.musicpresence.app/v3/icons/miniradioplayer/tray-menu.ico",
+        "md5": "26a0111041a20088ff3bc43d6a491269"
       }
     ],
     "moosync": [
