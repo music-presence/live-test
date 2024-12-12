@@ -794,6 +794,31 @@
       }
     },
     {
+      "id": "saturn",
+      "name": "Saturn",
+      "url": "https://saturn.kim",
+      "represents": [
+        "deezer"
+      ],
+      "sources": {
+        "win_winrt": [
+          "dev.arachnid.saturn"
+        ]
+      },
+      "attributes": {
+        "pure": true,
+        "service": false
+      },
+      "content": [
+        "audio",
+        "audio_music",
+        "audio_podcast"
+      ],
+      "extra": {
+        "discord_application_id": "1316704754935660544"
+      }
+    },
+    {
       "id": "soundcloud",
       "name": "SoundCloud",
       "url": "https://soundcloud.com",
@@ -1686,6 +1711,24 @@
         "type": "ico",
         "url": "https://live.musicpresence.app/v3/icons/recordbox/tray-menu.ico",
         "md5": "d7128574975c58620e5678693dba96d8"
+      }
+    ],
+    "saturn": [
+      {
+        "label": "discord-large-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/saturn/discord-large-image.png"
+      },
+      {
+        "label": "discord-small-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/saturn/discord-small-image.png"
+      },
+      {
+        "label": "tray-menu",
+        "type": "ico",
+        "url": "https://live.musicpresence.app/v3/icons/saturn/tray-menu.ico",
+        "md5": "051c755148c705fe03e6d97d0364e0f3"
       }
     ],
     "soundcloud": [
