@@ -607,6 +607,27 @@
       }
     },
     {
+      "id": "mpc-hc",
+      "name": "MPC-HC",
+      "url": "https://github.com/clsid2/mpc-hc",
+      "sources": {
+        "win_winrt": [
+          "mpc-hc64.exe"
+        ]
+      },
+      "attributes": {
+        "pure": false,
+        "service": false
+      },
+      "content": [
+        "video",
+        "audio"
+      ],
+      "extra": {
+        "discord_application_id": "1317508146318802974"
+      }
+    },
+    {
       "id": "mpv",
       "name": "mpv",
       "url": "https://mpv.io",
@@ -1567,6 +1588,24 @@
         "type": "ico",
         "url": "https://live.musicpresence.app/v3/icons/moosync/tray-menu.ico",
         "md5": "4b4257f7b39956836bbeaf77f1bb67a6"
+      }
+    ],
+    "mpc-hc": [
+      {
+        "label": "discord-large-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/mpc-hc/discord-large-image.png"
+      },
+      {
+        "label": "discord-small-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/mpc-hc/discord-small-image.png"
+      },
+      {
+        "label": "tray-menu",
+        "type": "ico",
+        "url": "https://live.musicpresence.app/v3/icons/mpc-hc/tray-menu.ico",
+        "md5": "e7603ea064f1cb098b6387d2744c21f2"
       }
     ],
     "mpv": [
