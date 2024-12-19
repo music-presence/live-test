@@ -113,6 +113,27 @@
       }
     },
     {
+      "id": "audacious",
+      "name": "Audacious",
+      "url": "https://audacious-media-player.org",
+      "sources": {
+        "lin_mpris": [
+          "audacious"
+        ]
+      },
+      "attributes": {
+        "pure": true,
+        "service": false
+      },
+      "content": [
+        "audio",
+        "audio_music"
+      ],
+      "extra": {
+        "discord_application_id": "1319396509602680944"
+      }
+    },
+    {
       "id": "cider",
       "name": "Cider",
       "url": "https://cider.sh",
@@ -711,6 +732,24 @@
         "type": "ico",
         "url": "https://live.musicpresence.app/v3/icons/apple-podcasts/tray-menu.ico",
         "md5": "1814e6e642d8a22293a0db5734f506d1"
+      }
+    ],
+    "audacious": [
+      {
+        "label": "discord-large-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/audacious/discord-large-image.png"
+      },
+      {
+        "label": "discord-small-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/audacious/discord-small-image.png"
+      },
+      {
+        "label": "tray-menu",
+        "type": "ico",
+        "url": "https://live.musicpresence.app/v3/icons/audacious/tray-menu.ico",
+        "md5": "dce05a4fa77c07d64cfc5dfd8377ce4a"
       }
     ],
     "cider": [
