@@ -633,7 +633,8 @@
       "url": "https://github.com/clsid2/mpc-hc",
       "sources": {
         "win_winrt": [
-          "mpc-hc64.exe"
+          "mpc-hc64.exe",
+          "mpc-hc.exe"
         ]
       },
       "attributes": {
