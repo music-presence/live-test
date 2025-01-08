@@ -303,6 +303,31 @@
       }
     },
     {
+      "id": "jiosaavn",
+      "name": "JioSaavn",
+      "url": "https://www.jiosaavn.com",
+      "sources": {
+        "win_winrt": [
+          "Saavn.SaavnMusicRadio_ax02tpqam95xr!App",
+          "Saavn.SaavnMusicRadio_ax02tpqam95xr!APP"
+        ],
+        "web_domain": [
+          "jiosaavn.com"
+        ]
+      },
+      "attributes": {
+        "pure": true,
+        "service": true
+      },
+      "content": [
+        "audio",
+        "audio_music"
+      ],
+      "extra": {
+        "discord_application_id": "1326551142670270585"
+      }
+    },
+    {
       "id": "mediamonkey",
       "name": "MediaMonkey",
       "url": "https://www.mediamonkey.com",
@@ -528,7 +553,9 @@
       "url": "https://podurama.com",
       "sources": {
         "win_winrt": [
-          "Podurama.exe"
+          "Podurama.exe",
+          "19255Podurama.PoduramaPodcastPlayer_mzk0fqtz9gcs8!App",
+          "19255Podurama.PoduramaPodcastPlayer_mzk0fqtz9gcs8!APP"
         ],
         "web_domain": [
           "podurama.com"
@@ -1086,6 +1113,24 @@
         "type": "ico",
         "url": "https://live.musicpresence.app/v3/icons/jellyfin/tray-menu.ico",
         "md5": "13a304aed8e3c97328a410ad483c782d"
+      }
+    ],
+    "jiosaavn": [
+      {
+        "label": "discord-large-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/jiosaavn/discord-large-image.png"
+      },
+      {
+        "label": "discord-small-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/jiosaavn/discord-small-image.png"
+      },
+      {
+        "label": "tray-menu",
+        "type": "ico",
+        "url": "https://live.musicpresence.app/v3/icons/jiosaavn/tray-menu.ico",
+        "md5": "6bf6ceece5d54389ec6a5b67f167ab75"
       }
     ],
     "mediamonkey": [
