@@ -243,6 +243,27 @@
       }
     },
     {
+      "id": "foobar2000",
+      "name": "foobar2000",
+      "url": "https://www.foobar2000.org",
+      "sources": {
+        "lin_mpris": [
+          "beefweb"
+        ]
+      },
+      "attributes": {
+        "pure": true,
+        "service": false
+      },
+      "content": [
+        "audio",
+        "audio_music"
+      ],
+      "extra": {
+        "discord_application_id": "1247654172975956088"
+      }
+    },
+    {
       "id": "fooyin",
       "name": "fooyin",
       "url": "https://www.fooyin.org",
@@ -843,6 +864,24 @@
         "type": "ico",
         "url": "https://live.musicpresence.app/v3/icons/elisa/tray-menu.ico",
         "md5": "23453911fbd0dd78f9f15a9e030e57d5"
+      }
+    ],
+    "foobar2000": [
+      {
+        "label": "discord-large-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/foobar2000/discord-large-image.png"
+      },
+      {
+        "label": "discord-small-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/foobar2000/discord-small-image.png"
+      },
+      {
+        "label": "tray-menu",
+        "type": "ico",
+        "url": "https://live.musicpresence.app/v3/icons/foobar2000/tray-menu.ico",
+        "md5": "73b9a1c1563fda9d32996385d74c1f94"
       }
     ],
     "fooyin": [

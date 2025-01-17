@@ -333,6 +333,9 @@
         ],
         "mac_mediaremote": [
           "com.foobar2000.mac"
+        ],
+        "lin_mpris": [
+          "beefweb"
         ]
       },
       "attributes": {
