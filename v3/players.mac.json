@@ -393,6 +393,27 @@
       }
     },
     {
+      "id": "vlc",
+      "name": "VLC",
+      "url": "https://www.videolan.org/vlc",
+      "sources": {
+        "mac_mediaremote": [
+          "org.videolan.vlc"
+        ]
+      },
+      "attributes": {
+        "pure": false,
+        "service": false
+      },
+      "content": [
+        "video",
+        "audio"
+      ],
+      "extra": {
+        "discord_application_id": "1285586777616420885"
+      }
+    },
+    {
       "id": "yandex-music",
       "name": "Yandex Music",
       "url": "https://music.yandex.com",
@@ -750,6 +771,24 @@
         "type": "ico",
         "url": "https://live.musicpresence.app/v3/icons/tidal/tray-menu.ico",
         "md5": "15b2cd691bfac19f42a7db9de468b2f8"
+      }
+    ],
+    "vlc": [
+      {
+        "label": "discord-large-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/vlc/discord-large-image.png"
+      },
+      {
+        "label": "discord-small-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/vlc/discord-small-image.png"
+      },
+      {
+        "label": "tray-menu",
+        "type": "ico",
+        "url": "https://live.musicpresence.app/v3/icons/vlc/tray-menu.ico",
+        "md5": "3edb7239d0fe8801ea5680a175fb0ef1"
       }
     ],
     "yandex-music": [
