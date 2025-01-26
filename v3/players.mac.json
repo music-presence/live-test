@@ -255,6 +255,30 @@
       }
     },
     {
+      "id": "plex",
+      "name": "Plex",
+      "url": "https://plex.tv",
+      "sources": {
+        "mac_mediaremote": [
+          "tv.plex.desktop"
+        ],
+        "web_domain": [
+          "app.plex.tv"
+        ]
+      },
+      "attributes": {
+        "pure": false,
+        "service": false
+      },
+      "content": [
+        "video",
+        "audio"
+      ],
+      "extra": {
+        "discord_application_id": "1333150710237233205"
+      }
+    },
+    {
       "id": "pocket-casts",
       "name": "Pocket Casts",
       "url": "https://pocketcasts.com",
@@ -663,6 +687,24 @@
         "type": "ico",
         "url": "https://live.musicpresence.app/v3/icons/mpv/tray-menu.ico",
         "md5": "b9aeae524b74ffa93673599d84ca9897"
+      }
+    ],
+    "plex": [
+      {
+        "label": "discord-large-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/plex/discord-large-image.png"
+      },
+      {
+        "label": "discord-small-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/plex/discord-small-image.png"
+      },
+      {
+        "label": "tray-menu",
+        "type": "ico",
+        "url": "https://live.musicpresence.app/v3/icons/plex/tray-menu.ico",
+        "md5": "7c73356e293bafc191cf61bf1f0c5b88"
       }
     ],
     "pocket-casts": [
