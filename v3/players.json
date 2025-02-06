@@ -486,7 +486,8 @@
       "sources": {
         "win_winrt": [
           "iTunes.exe",
-          "iTunes.SMTC.exe"
+          "iTunes.SMTC.exe",
+          "49586DaveAntoine.MediaControllerforiTunes_9bzempp7dntjg!App"
         ]
       },
       "attributes": {
