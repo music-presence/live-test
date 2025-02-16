@@ -283,6 +283,9 @@
       "name": "Pocket Casts",
       "url": "https://pocketcasts.com",
       "sources": {
+        "mac_mediaremote": [
+          "com.electron.pocket-casts"
+        ],
         "web_domain": [
           "play.pocketcasts.com"
         ]
