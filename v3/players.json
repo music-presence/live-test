@@ -99,6 +99,27 @@
       }
     },
     {
+      "id": "ampcast",
+      "name": "ampcast",
+      "url": "https://github.com/rekkyrosso/ampcast",
+      "sources": {
+        "win_winrt": [
+          "ampcast.exe"
+        ]
+      },
+      "attributes": {
+        "pure": true,
+        "service": false
+      },
+      "content": [
+        "audio",
+        "audio_music"
+      ],
+      "extra": {
+        "discord_application_id": "1344990632602632293"
+      }
+    },
+    {
       "id": "apple-music",
       "name": "Apple Music",
       "url": "https://music.apple.com",
@@ -1313,6 +1334,24 @@
         "type": "ico",
         "url": "https://live.musicpresence.app/v3/icons/amberol/tray-menu.ico",
         "md5": "c63e1a89e73e7cbd18279226775b8cf4"
+      }
+    ],
+    "ampcast": [
+      {
+        "label": "discord-large-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/ampcast/discord-large-image.png"
+      },
+      {
+        "label": "discord-small-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/ampcast/discord-small-image.png"
+      },
+      {
+        "label": "tray-menu",
+        "type": "ico",
+        "url": "https://live.musicpresence.app/v3/icons/ampcast/tray-menu.ico",
+        "md5": "a5192f3fc9bd48e76b61dbf485a898eb"
       }
     ],
     "apple-music": [
