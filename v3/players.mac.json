@@ -347,6 +347,27 @@
       }
     },
     {
+      "id": "reamp",
+      "name": "re:AMP",
+      "url": "https://re-amp.ru",
+      "sources": {
+        "mac_mediaremote": [
+          "ru.alexfreud.ReAmp"
+        ]
+      },
+      "attributes": {
+        "pure": true,
+        "service": false
+      },
+      "content": [
+        "audio",
+        "audio_music"
+      ],
+      "extra": {
+        "discord_application_id": "1346993802841296976"
+      }
+    },
+    {
       "id": "soundcloud",
       "name": "SoundCloud",
       "url": "https://soundcloud.com",
@@ -762,6 +783,24 @@
         "type": "ico",
         "url": "https://live.musicpresence.app/v3/icons/qobuz/tray-menu.ico",
         "md5": "ca523146618c71043c89170e4620d6a4"
+      }
+    ],
+    "reamp": [
+      {
+        "label": "discord-large-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/reamp/discord-large-image.png"
+      },
+      {
+        "label": "discord-small-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/reamp/discord-small-image.png"
+      },
+      {
+        "label": "tray-menu",
+        "type": "ico",
+        "url": "https://live.musicpresence.app/v3/icons/reamp/tray-menu.ico",
+        "md5": "0d41a8d10473e18ed84ee8bd51e64e67"
       }
     ],
     "soundcloud": [
