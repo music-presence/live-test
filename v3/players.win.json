@@ -619,6 +619,30 @@
       }
     },
     {
+      "id": "potplayer",
+      "name": "PotPlayer",
+      "url": "https://potplayer.daum.net",
+      "sources": {
+        "win_winrt": [
+          "PotPlayerMini.exe",
+          "PotPlayerMini64.exe",
+          "PotPlayer.exe",
+          "PotPlayer64.exe"
+        ]
+      },
+      "attributes": {
+        "pure": false,
+        "service": false
+      },
+      "content": [
+        "video",
+        "audio"
+      ],
+      "extra": {
+        "discord_application_id": "1348735599317881004"
+      }
+    },
+    {
       "id": "qobuz",
       "name": "Qobuz",
       "url": "https://qobuz.com",
@@ -1431,6 +1455,24 @@
         "type": "ico",
         "url": "https://live.musicpresence.app/v3/icons/podurama/tray-menu.ico",
         "md5": "8c78d74a742068278c5b9438e09fec6d"
+      }
+    ],
+    "potplayer": [
+      {
+        "label": "discord-large-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/potplayer/discord-large-image.png"
+      },
+      {
+        "label": "discord-small-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/potplayer/discord-small-image.png"
+      },
+      {
+        "label": "tray-menu",
+        "type": "ico",
+        "url": "https://live.musicpresence.app/v3/icons/potplayer/tray-menu.ico",
+        "md5": "d33cae5147563f1d626fc1460a285494"
       }
     ],
     "qobuz": [
