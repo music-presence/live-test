@@ -963,6 +963,30 @@
       }
     },
     {
+      "id": "roon",
+      "name": "Roon",
+      "url": "https://roon.app",
+      "sources": {
+        "win_winrt": [
+          "Roon"
+        ],
+        "mac_mediaremote": [
+          "com.roon.Roon"
+        ]
+      },
+      "attributes": {
+        "pure": true,
+        "service": false
+      },
+      "content": [
+        "audio",
+        "audio_music"
+      ],
+      "extra": {
+        "discord_application_id": "1350205710050398301"
+      }
+    },
+    {
       "id": "saturn",
       "name": "Saturn",
       "url": "https://saturn.kim",
@@ -2030,6 +2054,24 @@
         "type": "ico",
         "url": "https://live.musicpresence.app/v3/icons/recordbox/tray-menu.ico",
         "md5": "d7128574975c58620e5678693dba96d8"
+      }
+    ],
+    "roon": [
+      {
+        "label": "discord-large-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/roon/discord-large-image.png"
+      },
+      {
+        "label": "discord-small-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/roon/discord-small-image.png"
+      },
+      {
+        "label": "tray-menu",
+        "type": "ico",
+        "url": "https://live.musicpresence.app/v3/icons/roon/tray-menu.ico",
+        "md5": "1a98da638805521cf6939fffb92db9c5"
       }
     ],
     "saturn": [

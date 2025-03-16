@@ -368,6 +368,27 @@
       }
     },
     {
+      "id": "roon",
+      "name": "Roon",
+      "url": "https://roon.app",
+      "sources": {
+        "mac_mediaremote": [
+          "com.roon.Roon"
+        ]
+      },
+      "attributes": {
+        "pure": true,
+        "service": false
+      },
+      "content": [
+        "audio",
+        "audio_music"
+      ],
+      "extra": {
+        "discord_application_id": "1350205710050398301"
+      }
+    },
+    {
       "id": "soundcloud",
       "name": "SoundCloud",
       "url": "https://soundcloud.com",
@@ -801,6 +822,24 @@
         "type": "ico",
         "url": "https://live.musicpresence.app/v3/icons/reamp/tray-menu.ico",
         "md5": "0d41a8d10473e18ed84ee8bd51e64e67"
+      }
+    ],
+    "roon": [
+      {
+        "label": "discord-large-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/roon/discord-large-image.png"
+      },
+      {
+        "label": "discord-small-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/roon/discord-small-image.png"
+      },
+      {
+        "label": "tray-menu",
+        "type": "ico",
+        "url": "https://live.musicpresence.app/v3/icons/roon/tray-menu.ico",
+        "md5": "1a98da638805521cf6939fffb92db9c5"
       }
     ],
     "soundcloud": [
