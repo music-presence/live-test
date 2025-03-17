@@ -935,7 +935,8 @@
         "win_winrt": [
           "A025C540.Yandex.Music_vfvw9svesycw6!App",
           "A025C540.Yandex.Music_vfvw9svesycw6!APP",
-          "ru.yandex.desktop.music"
+          "ru.yandex.desktop.music",
+          "\u042f\u043d\u0434\u0435\u043a\u0441 \u041c\u0443\u0437\u044b\u043a\u0430.exe"
         ],
         "web_domain": [
           "music.yandex.com",
