@@ -814,6 +814,27 @@
       }
     },
     {
+      "id": "tauon",
+      "name": "Tauon",
+      "url": "https://tauonmusicbox.rocks",
+      "sources": {
+        "win_winrt": [
+          "Tauon.exe"
+        ]
+      },
+      "attributes": {
+        "pure": true,
+        "service": false
+      },
+      "content": [
+        "audio",
+        "audio_music"
+      ],
+      "extra": {
+        "discord_application_id": "1311745484028772412"
+      }
+    },
+    {
       "id": "tidal",
       "name": "TIDAL",
       "url": "https://tidal.com",
@@ -1642,6 +1663,24 @@
         "type": "ico",
         "url": "https://live.musicpresence.app/v3/icons/supersonic/tray-menu.ico",
         "md5": "a6191833c4e5fd23a047ef760487d2fb"
+      }
+    ],
+    "tauon": [
+      {
+        "label": "discord-large-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/tauon/discord-large-image.png"
+      },
+      {
+        "label": "discord-small-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/tauon/discord-small-image.png"
+      },
+      {
+        "label": "tray-menu",
+        "type": "ico",
+        "url": "https://live.musicpresence.app/v3/icons/tauon/tray-menu.ico",
+        "md5": "3765851d861e9e351e189814226cb40d"
       }
     ],
     "tidal": [
