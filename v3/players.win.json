@@ -793,6 +793,27 @@
       }
     },
     {
+      "id": "supersonic",
+      "name": "Supersonic",
+      "url": "https://github.com/dweymouth/supersonic",
+      "sources": {
+        "win_winrt": [
+          "Supersonic.exe"
+        ]
+      },
+      "attributes": {
+        "pure": true,
+        "service": false
+      },
+      "content": [
+        "audio",
+        "audio_music"
+      ],
+      "extra": {
+        "discord_application_id": "1351467474524049418"
+      }
+    },
+    {
       "id": "tidal",
       "name": "TIDAL",
       "url": "https://tidal.com",
@@ -1603,6 +1624,24 @@
         "type": "ico",
         "url": "https://live.musicpresence.app/v3/icons/spotube/tray-menu.ico",
         "md5": "7fc39b2bcd4110d1078df9aad7ef75d0"
+      }
+    ],
+    "supersonic": [
+      {
+        "label": "discord-large-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/supersonic/discord-large-image.png"
+      },
+      {
+        "label": "discord-small-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/supersonic/discord-small-image.png"
+      },
+      {
+        "label": "tray-menu",
+        "type": "ico",
+        "url": "https://live.musicpresence.app/v3/icons/supersonic/tray-menu.ico",
+        "md5": "a6191833c4e5fd23a047ef760487d2fb"
       }
     ],
     "tidal": [
