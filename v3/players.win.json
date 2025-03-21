@@ -218,6 +218,27 @@
       }
     },
     {
+      "id": "emby",
+      "name": "Emby",
+      "url": "https://emby.media",
+      "sources": {
+        "win_winrt": [
+          "EmbyMedia.EmbyTheater_svmepx4c03f7m!App"
+        ]
+      },
+      "attributes": {
+        "pure": false,
+        "service": false
+      },
+      "content": [
+        "video",
+        "audio"
+      ],
+      "extra": {
+        "discord_application_id": "1352779952722018304"
+      }
+    },
+    {
       "id": "foobar2000",
       "name": "foobar2000",
       "url": "https://www.foobar2000.org",
@@ -1195,6 +1216,24 @@
         "type": "ico",
         "url": "https://live.musicpresence.app/v3/icons/dopamine/tray-menu.ico",
         "md5": "0a9af67b1178f75e4104cea65610ae77"
+      }
+    ],
+    "emby": [
+      {
+        "label": "discord-large-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/emby/discord-large-image.png"
+      },
+      {
+        "label": "discord-small-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/emby/discord-small-image.png"
+      },
+      {
+        "label": "tray-menu",
+        "type": "ico",
+        "url": "https://live.musicpresence.app/v3/icons/emby/tray-menu.ico",
+        "md5": "b96271e8688733d3a1dfd23755f5654a"
       }
     ],
     "foobar2000": [
