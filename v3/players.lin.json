@@ -497,6 +497,27 @@
       }
     },
     {
+      "id": "quodlibet",
+      "name": "Quod Libet",
+      "url": "https://github.com/quodlibet/quodlibet",
+      "sources": {
+        "lin_mpris": [
+          "quodlibet"
+        ]
+      },
+      "attributes": {
+        "pure": true,
+        "service": false
+      },
+      "content": [
+        "audio",
+        "audio_music"
+      ],
+      "extra": {
+        "discord_application_id": "1354544950473261229"
+      }
+    },
+    {
       "id": "recordbox",
       "name": "Recordbox",
       "url": "https://codeberg.org/edestcroix/Recordbox",
@@ -1083,6 +1104,24 @@
         "type": "ico",
         "url": "https://live.musicpresence.app/v3/icons/qobuz/tray-menu.ico",
         "md5": "ca523146618c71043c89170e4620d6a4"
+      }
+    ],
+    "quodlibet": [
+      {
+        "label": "discord-large-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/quodlibet/discord-large-image.png"
+      },
+      {
+        "label": "discord-small-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/quodlibet/discord-small-image.png"
+      },
+      {
+        "label": "tray-menu",
+        "type": "ico",
+        "url": "https://live.musicpresence.app/v3/icons/quodlibet/tray-menu.ico",
+        "md5": "10d702135a15777f7c87f4fba66d2fcf"
       }
     ],
     "recordbox": [
