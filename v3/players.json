@@ -1075,6 +1075,27 @@
       }
     },
     {
+      "id": "sonixd",
+      "name": "Sonixd",
+      "url": "https://github.com/jeffvli/sonixd",
+      "sources": {
+        "win_winrt": [
+          "Sonixd.exe"
+        ]
+      },
+      "attributes": {
+        "pure": false,
+        "service": false
+      },
+      "content": [
+        "audio",
+        "audio_music"
+      ],
+      "extra": {
+        "discord_application_id": "1355256469624193296"
+      }
+    },
+    {
       "id": "soundcloud",
       "name": "SoundCloud",
       "url": "https://soundcloud.com",
@@ -2233,6 +2254,24 @@
         "type": "ico",
         "url": "https://live.musicpresence.app/v3/icons/saturn/tray-menu.ico",
         "md5": "051c755148c705fe03e6d97d0364e0f3"
+      }
+    ],
+    "sonixd": [
+      {
+        "label": "discord-large-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/sonixd/discord-large-image.png"
+      },
+      {
+        "label": "discord-small-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/sonixd/discord-small-image.png"
+      },
+      {
+        "label": "tray-menu",
+        "type": "ico",
+        "url": "https://live.musicpresence.app/v3/icons/sonixd/tray-menu.ico",
+        "md5": "c8cac45f7fad266d8a0b5a44b491ddbd"
       }
     ],
     "soundcloud": [
