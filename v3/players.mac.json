@@ -9,9 +9,6 @@
       "name": "Amazon Music",
       "url": "https://music.amazon.com",
       "sources": {
-        "mac_mediaremote": [
-          "com.amazon.music"
-        ],
         "web_domain": [
           "music.amazon.ae",
           "music.amazon.ca",
@@ -37,6 +34,9 @@
           "music.amazon.sa",
           "music.amazon.se",
           "music.amazon.sg"
+        ],
+        "mac_mediaremote": [
+          "com.amazon.music"
         ]
       },
       "attributes": {
@@ -57,11 +57,11 @@
       "name": "Apple Music",
       "url": "https://music.apple.com",
       "sources": {
-        "mac_mediaremote": [
-          "com.apple.Music"
-        ],
         "web_domain": [
           "music.apple.com"
+        ],
+        "mac_mediaremote": [
+          "com.apple.Music"
         ]
       },
       "attributes": {
@@ -81,11 +81,11 @@
       "name": "Apple Podcasts",
       "url": "https://podcasts.apple.com",
       "sources": {
-        "mac_mediaremote": [
-          "com.apple.podcasts"
-        ],
         "web_domain": [
           "podcasts.apple.com"
+        ],
+        "mac_mediaremote": [
+          "com.apple.podcasts"
         ]
       },
       "attributes": {
@@ -129,11 +129,11 @@
       "name": "Deezer",
       "url": "https://deezer.com",
       "sources": {
-        "mac_mediaremote": [
-          "com.deezer.deezer-desktop"
-        ],
         "web_domain": [
           "deezer.com"
+        ],
+        "mac_mediaremote": [
+          "com.deezer.deezer-desktop"
         ]
       },
       "attributes": {
@@ -280,11 +280,11 @@
       "name": "Plex",
       "url": "https://plex.tv",
       "sources": {
-        "mac_mediaremote": [
-          "tv.plex.desktop"
-        ],
         "web_domain": [
           "app.plex.tv"
+        ],
+        "mac_mediaremote": [
+          "tv.plex.desktop"
         ]
       },
       "attributes": {
@@ -304,11 +304,11 @@
       "name": "Pocket Casts",
       "url": "https://pocketcasts.com",
       "sources": {
-        "mac_mediaremote": [
-          "com.electron.pocket-casts"
-        ],
         "web_domain": [
           "play.pocketcasts.com"
+        ],
+        "mac_mediaremote": [
+          "com.electron.pocket-casts"
         ]
       },
       "attributes": {
@@ -436,11 +436,11 @@
       "name": "Spotify",
       "url": "https://spotify.com",
       "sources": {
-        "mac_mediaremote": [
-          "com.spotify.client"
-        ],
         "web_domain": [
           "open.spotify.com"
+        ],
+        "mac_mediaremote": [
+          "com.spotify.client"
         ]
       },
       "attributes": {
@@ -461,13 +461,13 @@
       "name": "TIDAL",
       "url": "https://tidal.com",
       "sources": {
-        "mac_mediaremote": [
-          "com.tidal.desktop"
-        ],
         "web_domain": [
           "tidal.com",
           "listen.tidal.com",
           "listen.stage.tidal.com"
+        ],
+        "mac_mediaremote": [
+          "com.tidal.desktop"
         ]
       },
       "attributes": {

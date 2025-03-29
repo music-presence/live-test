@@ -30,11 +30,6 @@
       "name": "Amazon Music",
       "url": "https://music.amazon.com",
       "sources": {
-        "win_winrt": [
-          "Amazon Music.exe",
-          "AmazonMobileLLC.AmazonMusic_kc6t79cpj4tp0!AmazonMobileLLC.AmazonMusic",
-          "Amazon.Music"
-        ],
         "web_domain": [
           "music.amazon.ae",
           "music.amazon.ca",
@@ -60,6 +55,11 @@
           "music.amazon.sa",
           "music.amazon.se",
           "music.amazon.sg"
+        ],
+        "win_winrt": [
+          "Amazon Music.exe",
+          "AmazonMobileLLC.AmazonMusic_kc6t79cpj4tp0!AmazonMobileLLC.AmazonMusic",
+          "Amazon.Music"
         ]
       },
       "attributes": {
@@ -101,13 +101,13 @@
       "name": "Apple Music",
       "url": "https://music.apple.com",
       "sources": {
+        "web_domain": [
+          "music.apple.com"
+        ],
         "win_winrt": [
           "AppleMusic.exe",
           "AppleInc.AppleMusicWin_nzyj5cx40ttqa!App",
           "AppleInc.AppleMusicWin_nzyj5cx40ttqa!APP"
-        ],
-        "web_domain": [
-          "music.apple.com"
         ]
       },
       "attributes": {
@@ -173,13 +173,13 @@
       "name": "Deezer",
       "url": "https://deezer.com",
       "sources": {
+        "web_domain": [
+          "deezer.com"
+        ],
         "win_winrt": [
           "Deezer.exe",
           "com.deezer.deezer-desktop",
           "Deezer.62021768415AF_q7m17pa7q8kj0!Deezer.Music"
-        ],
-        "web_domain": [
-          "deezer.com"
         ]
       },
       "attributes": {
@@ -352,12 +352,12 @@
       "name": "JioSaavn",
       "url": "https://www.jiosaavn.com",
       "sources": {
+        "web_domain": [
+          "jiosaavn.com"
+        ],
         "win_winrt": [
           "Saavn.SaavnMusicRadio_ax02tpqam95xr!App",
           "Saavn.SaavnMusicRadio_ax02tpqam95xr!APP"
-        ],
-        "web_domain": [
-          "jiosaavn.com"
         ]
       },
       "attributes": {
@@ -593,12 +593,12 @@
       "name": "Pocket Casts",
       "url": "https://pocketcasts.com",
       "sources": {
+        "web_domain": [
+          "play.pocketcasts.com"
+        ],
         "win_winrt": [
           "com.squirrel.pocket_casts_desktop.PocketCasts",
           "Pocket Casts.exe"
-        ],
-        "web_domain": [
-          "play.pocketcasts.com"
         ]
       },
       "attributes": {
@@ -618,13 +618,13 @@
       "name": "Podurama",
       "url": "https://podurama.com",
       "sources": {
+        "web_domain": [
+          "podurama.com"
+        ],
         "win_winrt": [
           "Podurama.exe",
           "19255Podurama.PoduramaPodcastPlayer_mzk0fqtz9gcs8!App",
           "19255Podurama.PoduramaPodcastPlayer_mzk0fqtz9gcs8!APP"
-        ],
-        "web_domain": [
-          "podurama.com"
         ]
       },
       "attributes": {
@@ -668,14 +668,14 @@
       "name": "Qobuz",
       "url": "https://qobuz.com",
       "sources": {
-        "win_winrt": [
-          "Qobuz.exe",
-          "com.squirrel.Qobuz.Qobuz"
-        ],
         "web_domain": [
           "qobuz.com",
           "play.qobuz.com",
           "open.qobuz.com"
+        ],
+        "win_winrt": [
+          "Qobuz.exe",
+          "com.squirrel.Qobuz.Qobuz"
         ]
       },
       "attributes": {
@@ -762,14 +762,14 @@
       "name": "SoundCloud",
       "url": "https://soundcloud.com",
       "sources": {
+        "web_domain": [
+          "soundcloud.com",
+          "snd.sc"
+        ],
         "win_winrt": [
           "SoundcloudLtd.SoundCloudforWindowsBeta_2xc63xn306dnw!App",
           "SoundcloudLtd.SoundCloudforWindowsBeta_2xc63xn306dnw!APP",
           "SoundCloud.exe"
-        ],
-        "web_domain": [
-          "soundcloud.com",
-          "snd.sc"
         ]
       },
       "attributes": {
@@ -789,12 +789,12 @@
       "name": "Spotify",
       "url": "https://spotify.com",
       "sources": {
+        "web_domain": [
+          "open.spotify.com"
+        ],
         "win_winrt": [
           "Spotify.exe",
           "SpotifyAB.SpotifyMusic_zpdnekdrzrea0!Spotify"
-        ],
-        "web_domain": [
-          "open.spotify.com"
         ]
       },
       "attributes": {
@@ -881,15 +881,15 @@
       "name": "TIDAL",
       "url": "https://tidal.com",
       "sources": {
-        "win_winrt": [
-          "TIDAL.exe",
-          "com.squirrel.TIDAL.TIDAL",
-          "WiMPMusic.27241E05630EA_kn85bz84x7te4!TIDAL"
-        ],
         "web_domain": [
           "tidal.com",
           "listen.tidal.com",
           "listen.stage.tidal.com"
+        ],
+        "win_winrt": [
+          "TIDAL.exe",
+          "com.squirrel.TIDAL.TIDAL",
+          "WiMPMusic.27241E05630EA_kn85bz84x7te4!TIDAL"
         ]
       },
       "attributes": {
@@ -1016,15 +1016,15 @@
       "name": "Yandex Music",
       "url": "https://music.yandex.com",
       "sources": {
+        "web_domain": [
+          "music.yandex.com",
+          "music.yandex.ru"
+        ],
         "win_winrt": [
           "A025C540.Yandex.Music_vfvw9svesycw6!App",
           "A025C540.Yandex.Music_vfvw9svesycw6!APP",
           "ru.yandex.desktop.music",
           "\u042f\u043d\u0434\u0435\u043a\u0441 \u041c\u0443\u0437\u044b\u043a\u0430.exe"
-        ],
-        "web_domain": [
-          "music.yandex.com",
-          "music.yandex.ru"
         ]
       },
       "attributes": {
@@ -1045,12 +1045,12 @@
       "name": "YouTube",
       "url": "https://youtube.com",
       "sources": {
-        "win_winrt": [
-          "YouTube.exe"
-        ],
         "web_domain": [
           "youtube.com",
           "youtu.be"
+        ],
+        "win_winrt": [
+          "YouTube.exe"
         ]
       },
       "attributes": {

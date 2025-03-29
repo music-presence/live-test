@@ -29,14 +29,6 @@
       "name": "Amazon Music",
       "url": "https://music.amazon.com",
       "sources": {
-        "win_winrt": [
-          "Amazon Music.exe",
-          "AmazonMobileLLC.AmazonMusic_kc6t79cpj4tp0!AmazonMobileLLC.AmazonMusic",
-          "Amazon.Music"
-        ],
-        "mac_mediaremote": [
-          "com.amazon.music"
-        ],
         "web_domain": [
           "music.amazon.ae",
           "music.amazon.ca",
@@ -62,6 +54,14 @@
           "music.amazon.sa",
           "music.amazon.se",
           "music.amazon.sg"
+        ],
+        "win_winrt": [
+          "Amazon Music.exe",
+          "AmazonMobileLLC.AmazonMusic_kc6t79cpj4tp0!AmazonMobileLLC.AmazonMusic",
+          "Amazon.Music"
+        ],
+        "mac_mediaremote": [
+          "com.amazon.music"
         ]
       },
       "attributes": {
@@ -124,16 +124,16 @@
       "name": "Apple Music",
       "url": "https://music.apple.com",
       "sources": {
-        "mac_mediaremote": [
-          "com.apple.Music"
+        "web_domain": [
+          "music.apple.com"
         ],
         "win_winrt": [
           "AppleMusic.exe",
           "AppleInc.AppleMusicWin_nzyj5cx40ttqa!App",
           "AppleInc.AppleMusicWin_nzyj5cx40ttqa!APP"
         ],
-        "web_domain": [
-          "music.apple.com"
+        "mac_mediaremote": [
+          "com.apple.Music"
         ]
       },
       "attributes": {
@@ -153,11 +153,11 @@
       "name": "Apple Podcasts",
       "url": "https://podcasts.apple.com",
       "sources": {
-        "mac_mediaremote": [
-          "com.apple.podcasts"
-        ],
         "web_domain": [
           "podcasts.apple.com"
+        ],
+        "mac_mediaremote": [
+          "com.apple.podcasts"
         ]
       },
       "attributes": {
@@ -201,15 +201,15 @@
         "apple-music"
       ],
       "sources": {
-        "mac_mediaremote": [
-          "sh.cider.electron"
+        "lin_mpris": [
+          "cider"
         ],
         "win_winrt": [
           "27554FireDevElijahKlauman.CiderEA_270bejk4xgzqp!App",
           "27554FireDevElijahKlauman.CiderEA_270bejk4xgzqp!APP"
         ],
-        "lin_mpris": [
-          "cider"
+        "mac_mediaremote": [
+          "sh.cider.electron"
         ]
       },
       "attributes": {
@@ -271,6 +271,9 @@
       "name": "Deezer",
       "url": "https://deezer.com",
       "sources": {
+        "web_domain": [
+          "deezer.com"
+        ],
         "win_winrt": [
           "Deezer.exe",
           "com.deezer.deezer-desktop",
@@ -278,9 +281,6 @@
         ],
         "mac_mediaremote": [
           "com.deezer.deezer-desktop"
-        ],
-        "web_domain": [
-          "deezer.com"
         ]
       },
       "attributes": {
@@ -389,6 +389,9 @@
       "name": "foobar2000",
       "url": "https://www.foobar2000.org",
       "sources": {
+        "lin_mpris": [
+          "beefweb"
+        ],
         "win_winrt": [
           "foobar2000.exe",
           "Resolute.foobar2000modern_cg7j1awqsza28!foobar2000",
@@ -396,9 +399,6 @@
         ],
         "mac_mediaremote": [
           "com.foobar2000.mac"
-        ],
-        "lin_mpris": [
-          "beefweb"
         ]
       },
       "attributes": {
@@ -502,11 +502,11 @@
       "name": "Harmonoid",
       "url": "https://harmonoid.com",
       "sources": {
-        "win_winrt": [
-          "harmonoid.exe"
-        ],
         "lin_mpris": [
           "harmonoid"
+        ],
+        "win_winrt": [
+          "harmonoid.exe"
         ]
       },
       "attributes": {
@@ -591,12 +591,12 @@
       "name": "JioSaavn",
       "url": "https://www.jiosaavn.com",
       "sources": {
+        "web_domain": [
+          "jiosaavn.com"
+        ],
         "win_winrt": [
           "Saavn.SaavnMusicRadio_ax02tpqam95xr!App",
           "Saavn.SaavnMusicRadio_ax02tpqam95xr!APP"
-        ],
-        "web_domain": [
-          "jiosaavn.com"
         ]
       },
       "attributes": {
@@ -838,11 +838,11 @@
       "name": "Plex",
       "url": "https://plex.tv",
       "sources": {
-        "mac_mediaremote": [
-          "tv.plex.desktop"
-        ],
         "web_domain": [
           "app.plex.tv"
+        ],
+        "mac_mediaremote": [
+          "tv.plex.desktop"
         ]
       },
       "attributes": {
@@ -862,15 +862,15 @@
       "name": "Pocket Casts",
       "url": "https://pocketcasts.com",
       "sources": {
+        "web_domain": [
+          "play.pocketcasts.com"
+        ],
         "win_winrt": [
           "com.squirrel.pocket_casts_desktop.PocketCasts",
           "Pocket Casts.exe"
         ],
         "mac_mediaremote": [
           "com.electron.pocket-casts"
-        ],
-        "web_domain": [
-          "play.pocketcasts.com"
         ]
       },
       "attributes": {
@@ -890,13 +890,13 @@
       "name": "Podurama",
       "url": "https://podurama.com",
       "sources": {
+        "web_domain": [
+          "podurama.com"
+        ],
         "win_winrt": [
           "Podurama.exe",
           "19255Podurama.PoduramaPodcastPlayer_mzk0fqtz9gcs8!App",
           "19255Podurama.PoduramaPodcastPlayer_mzk0fqtz9gcs8!APP"
-        ],
-        "web_domain": [
-          "podurama.com"
         ]
       },
       "attributes": {
@@ -940,14 +940,14 @@
       "name": "Qobuz",
       "url": "https://qobuz.com",
       "sources": {
-        "win_winrt": [
-          "Qobuz.exe",
-          "com.squirrel.Qobuz.Qobuz"
-        ],
         "web_domain": [
           "qobuz.com",
           "play.qobuz.com",
           "open.qobuz.com"
+        ],
+        "win_winrt": [
+          "Qobuz.exe",
+          "com.squirrel.Qobuz.Qobuz"
         ]
       },
       "attributes": {
@@ -1100,14 +1100,14 @@
       "name": "SoundCloud",
       "url": "https://soundcloud.com",
       "sources": {
+        "web_domain": [
+          "soundcloud.com",
+          "snd.sc"
+        ],
         "win_winrt": [
           "SoundcloudLtd.SoundCloudforWindowsBeta_2xc63xn306dnw!App",
           "SoundcloudLtd.SoundCloudforWindowsBeta_2xc63xn306dnw!APP",
           "SoundCloud.exe"
-        ],
-        "web_domain": [
-          "soundcloud.com",
-          "snd.sc"
         ]
       },
       "attributes": {
@@ -1127,19 +1127,19 @@
       "name": "Spotify",
       "url": "https://spotify.com",
       "sources": {
-        "win_winrt": [
-          "Spotify.exe",
-          "SpotifyAB.SpotifyMusic_zpdnekdrzrea0!Spotify"
-        ],
-        "mac_mediaremote": [
-          "com.spotify.client"
-        ],
         "lin_mpris": [
           "spotify",
           "spotify_player"
         ],
         "web_domain": [
           "open.spotify.com"
+        ],
+        "win_winrt": [
+          "Spotify.exe",
+          "SpotifyAB.SpotifyMusic_zpdnekdrzrea0!Spotify"
+        ],
+        "mac_mediaremote": [
+          "com.spotify.client"
         ]
       },
       "attributes": {
@@ -1226,11 +1226,11 @@
       "name": "Tauon",
       "url": "https://tauonmusicbox.rocks",
       "sources": {
-        "win_winrt": [
-          "Tauon.exe"
-        ],
         "lin_mpris": [
           "tauon"
+        ],
+        "win_winrt": [
+          "Tauon.exe"
         ]
       },
       "attributes": {
@@ -1250,14 +1250,6 @@
       "name": "TIDAL",
       "url": "https://tidal.com",
       "sources": {
-        "win_winrt": [
-          "TIDAL.exe",
-          "com.squirrel.TIDAL.TIDAL",
-          "WiMPMusic.27241E05630EA_kn85bz84x7te4!TIDAL"
-        ],
-        "mac_mediaremote": [
-          "com.tidal.desktop"
-        ],
         "lin_mpris": [
           "tidal-hifi"
         ],
@@ -1265,6 +1257,14 @@
           "tidal.com",
           "listen.tidal.com",
           "listen.stage.tidal.com"
+        ],
+        "win_winrt": [
+          "TIDAL.exe",
+          "com.squirrel.TIDAL.TIDAL",
+          "WiMPMusic.27241E05630EA_kn85bz84x7te4!TIDAL"
+        ],
+        "mac_mediaremote": [
+          "com.tidal.desktop"
         ]
       },
       "attributes": {
@@ -1284,6 +1284,9 @@
       "name": "VLC",
       "url": "https://www.videolan.org/vlc",
       "sources": {
+        "lin_mpris": [
+          "vlc"
+        ],
         "win_winrt": [
           "vlc.exe",
           "VideoLAN.VLC_paz6r1rewnh0a!App",
@@ -1291,9 +1294,6 @@
         ],
         "mac_mediaremote": [
           "org.videolan.vlc"
-        ],
-        "lin_mpris": [
-          "vlc"
         ]
       },
       "attributes": {
@@ -1397,15 +1397,15 @@
       "name": "Yandex Music",
       "url": "https://music.yandex.com",
       "sources": {
+        "web_domain": [
+          "music.yandex.com",
+          "music.yandex.ru"
+        ],
         "win_winrt": [
           "A025C540.Yandex.Music_vfvw9svesycw6!App",
           "A025C540.Yandex.Music_vfvw9svesycw6!APP",
           "ru.yandex.desktop.music",
           "\u042f\u043d\u0434\u0435\u043a\u0441 \u041c\u0443\u0437\u044b\u043a\u0430.exe"
-        ],
-        "web_domain": [
-          "music.yandex.com",
-          "music.yandex.ru"
         ]
       },
       "attributes": {
@@ -1426,12 +1426,12 @@
       "name": "YouTube",
       "url": "https://youtube.com",
       "sources": {
-        "win_winrt": [
-          "YouTube.exe"
-        ],
         "web_domain": [
           "youtube.com",
           "youtu.be"
+        ],
+        "win_winrt": [
+          "YouTube.exe"
         ]
       },
       "attributes": {
@@ -1454,6 +1454,9 @@
         "web_domain": [
           "music.youtube.com"
         ],
+        "lin_mpris": [
+          "YoutubeMusic"
+        ],
         "win_winrt": [
           "YouTube Music.exe",
           "com.github.th-ch.youtube-music",
@@ -1462,9 +1465,6 @@
         ],
         "mac_mediaremote": [
           "com.github.th-ch.youtube-music"
-        ],
-        "lin_mpris": [
-          "YoutubeMusic"
         ]
       },
       "attributes": {
