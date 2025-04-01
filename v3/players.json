@@ -58,6 +58,7 @@
         "win_winrt": [
           "Amazon Music.exe",
           "AmazonMobileLLC.AmazonMusic_kc6t79cpj4tp0!AmazonMobileLLC.AmazonMusic",
+          "AmazonMobileLLC.AmazonMusic_kc6t79cpj4tp0!AMAZONMOBILELLC.AMAZONMUSIC",
           "Amazon.Music"
         ],
         "mac_mediaremote": [
@@ -277,7 +278,8 @@
         "win_winrt": [
           "Deezer.exe",
           "com.deezer.deezer-desktop",
-          "Deezer.62021768415AF_q7m17pa7q8kj0!Deezer.Music"
+          "Deezer.62021768415AF_q7m17pa7q8kj0!Deezer.Music",
+          "Deezer.62021768415AF_q7m17pa7q8kj0!DEEZER.MUSIC"
         ],
         "mac_mediaremote": [
           "com.deezer.deezer-desktop"
@@ -369,7 +371,8 @@
       "url": "https://emby.media",
       "sources": {
         "win_winrt": [
-          "EmbyMedia.EmbyTheater_svmepx4c03f7m!App"
+          "EmbyMedia.EmbyTheater_svmepx4c03f7m!App",
+          "EmbyMedia.EmbyTheater_svmepx4c03f7m!APP"
         ]
       },
       "attributes": {
@@ -395,7 +398,9 @@
         "win_winrt": [
           "foobar2000.exe",
           "Resolute.foobar2000modern_cg7j1awqsza28!foobar2000",
-          "Resolute.foobar2000_cg7j1awqsza28!foobar2000"
+          "Resolute.foobar2000modern_cg7j1awqsza28!FOOBAR2000",
+          "Resolute.foobar2000_cg7j1awqsza28!foobar2000",
+          "Resolute.foobar2000_cg7j1awqsza28!FOOBAR2000"
         ],
         "mac_mediaremote": [
           "com.foobar2000.mac"
@@ -550,7 +555,8 @@
         "win_winrt": [
           "iTunes.exe",
           "iTunes.SMTC.exe",
-          "49586DaveAntoine.MediaControllerforiTunes_9bzempp7dntjg!App"
+          "49586DaveAntoine.MediaControllerforiTunes_9bzempp7dntjg!App",
+          "49586DaveAntoine.MediaControllerforiTunes_9bzempp7dntjg!APP"
         ]
       },
       "attributes": {
@@ -774,7 +780,8 @@
       "sources": {
         "win_winrt": [
           "MusicBee.exe",
-          "50072StevenMayall.MusicBee_kcr266et74avj!MusicBeePackage"
+          "50072StevenMayall.MusicBee_kcr266et74avj!MusicBeePackage",
+          "50072StevenMayall.MusicBee_kcr266et74avj!MUSICBEEPACKAGE"
         ]
       },
       "attributes": {
@@ -1136,7 +1143,8 @@
         ],
         "win_winrt": [
           "Spotify.exe",
-          "SpotifyAB.SpotifyMusic_zpdnekdrzrea0!Spotify"
+          "SpotifyAB.SpotifyMusic_zpdnekdrzrea0!Spotify",
+          "SpotifyAB.SpotifyMusic_zpdnekdrzrea0!SPOTIFY"
         ],
         "mac_mediaremote": [
           "com.spotify.client"
@@ -1356,7 +1364,8 @@
       "url": "https://en.wikipedia.org/wiki/Groove_Music",
       "sources": {
         "win_winrt": [
-          "Microsoft.ZuneMusic_8wekyb3d8bbwe!Microsoft.ZuneMusic"
+          "Microsoft.ZuneMusic_8wekyb3d8bbwe!Microsoft.ZuneMusic",
+          "Microsoft.ZuneMusic_8wekyb3d8bbwe!MICROSOFT.ZUNEMUSIC"
         ]
       },
       "attributes": {
