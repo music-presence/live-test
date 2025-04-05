@@ -551,6 +551,9 @@
       "id": "itunes",
       "name": "iTunes",
       "url": "https://www.apple.com/itunes",
+      "represents": [
+        "apple-music"
+      ],
       "sources": {
         "win_winrt": [
           "iTunes.exe",
