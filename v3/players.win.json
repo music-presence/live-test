@@ -830,7 +830,8 @@
       ],
       "sources": {
         "win_winrt": [
-          "spotube.exe"
+          "spotube.exe",
+          "Spotube"
         ]
       },
       "attributes": {
