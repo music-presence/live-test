@@ -847,6 +847,28 @@
       }
     },
     {
+      "id": "stream-music",
+      "name": "Stream Music",
+      "url": "https://music.aqzscn.cn/en",
+      "sources": {
+        "win_winrt": [
+          "cn.aqzscn.streammusic_ffyz7s1gwevz6!streammusic",
+          "cn.aqzscn.streammusic_ffyz7s1gwevz6!STREAMMUSIC"
+        ]
+      },
+      "attributes": {
+        "pure": true,
+        "service": false
+      },
+      "content": [
+        "audio",
+        "audio_music"
+      ],
+      "extra": {
+        "discord_application_id": "1361351008101597277"
+      }
+    },
+    {
       "id": "supersonic",
       "name": "Supersonic",
       "url": "https://github.com/dweymouth/supersonic",
@@ -1737,6 +1759,24 @@
         "type": "ico",
         "url": "https://live.musicpresence.app/v3/icons/spotube/tray-menu.ico",
         "md5": "7fc39b2bcd4110d1078df9aad7ef75d0"
+      }
+    ],
+    "stream-music": [
+      {
+        "label": "discord-large-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/stream-music/discord-large-image.png"
+      },
+      {
+        "label": "discord-small-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/stream-music/discord-small-image.png"
+      },
+      {
+        "label": "tray-menu",
+        "type": "ico",
+        "url": "https://live.musicpresence.app/v3/icons/stream-music/tray-menu.ico",
+        "md5": "a36715db470173507ed2c9503b82e150"
       }
     ],
     "supersonic": [
