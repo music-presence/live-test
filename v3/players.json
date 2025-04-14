@@ -1094,7 +1094,7 @@
         ]
       },
       "attributes": {
-        "pure": false,
+        "pure": true,
         "service": false
       },
       "content": [
