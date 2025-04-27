@@ -154,6 +154,7 @@
       ],
       "sources": {
         "win_winrt": [
+          "27554FireDevElijahKlauman.CiderEA_270bejk4xgzqp!app",
           "27554FireDevElijahKlauman.CiderEA_270bejk4xgzqp!App",
           "27554FireDevElijahKlauman.CiderEA_270bejk4xgzqp!APP"
         ]
@@ -226,6 +227,7 @@
       "url": "https://emby.media",
       "sources": {
         "win_winrt": [
+          "EmbyMedia.EmbyTheater_svmepx4c03f7m!app",
           "EmbyMedia.EmbyTheater_svmepx4c03f7m!App",
           "EmbyMedia.EmbyTheater_svmepx4c03f7m!APP"
         ]
@@ -320,6 +322,7 @@
         "win_winrt": [
           "iTunes.exe",
           "iTunes.SMTC.exe",
+          "49586DaveAntoine.MediaControllerforiTunes_9bzempp7dntjg!app",
           "49586DaveAntoine.MediaControllerforiTunes_9bzempp7dntjg!App",
           "49586DaveAntoine.MediaControllerforiTunes_9bzempp7dntjg!APP"
         ]
@@ -366,6 +369,7 @@
           "jiosaavn.com"
         ],
         "win_winrt": [
+          "Saavn.SaavnMusicRadio_ax02tpqam95xr!app",
           "Saavn.SaavnMusicRadio_ax02tpqam95xr!App",
           "Saavn.SaavnMusicRadio_ax02tpqam95xr!APP"
         ]
@@ -430,6 +434,7 @@
       "url": "https://www.miniradioplayer.net",
       "sources": {
         "win_winrt": [
+          "28287mfYSoftware.MiniRadioPlayer_wvfna79ywx00a!app",
           "28287mfYSoftware.MiniRadioPlayer_wvfna79ywx00a!App",
           "28287mfYSoftware.MiniRadioPlayer_wvfna79ywx00a!APP"
         ]
@@ -540,6 +545,7 @@
       "url": "https://apps.microsoft.com/detail/9nblggh67n4f",
       "sources": {
         "win_winrt": [
+          "60490polApki.Next-Player_4j2bpc236qkhp!app",
           "60490polApki.Next-Player_4j2bpc236qkhp!App",
           "60490polApki.Next-Player_4j2bpc236qkhp!APP"
         ]
@@ -634,6 +640,7 @@
         ],
         "win_winrt": [
           "Podurama.exe",
+          "19255Podurama.PoduramaPodcastPlayer_mzk0fqtz9gcs8!app",
           "19255Podurama.PoduramaPodcastPlayer_mzk0fqtz9gcs8!App",
           "19255Podurama.PoduramaPodcastPlayer_mzk0fqtz9gcs8!APP"
         ]
@@ -778,6 +785,7 @@
           "snd.sc"
         ],
         "win_winrt": [
+          "SoundcloudLtd.SoundCloudforWindowsBeta_2xc63xn306dnw!app",
           "SoundcloudLtd.SoundCloudforWindowsBeta_2xc63xn306dnw!App",
           "SoundcloudLtd.SoundCloudforWindowsBeta_2xc63xn306dnw!APP",
           "SoundCloud.exe"
@@ -946,6 +954,7 @@
       "sources": {
         "win_winrt": [
           "vlc.exe",
+          "VideoLAN.VLC_paz6r1rewnh0a!app",
           "VideoLAN.VLC_paz6r1rewnh0a!App",
           "VideoLAN.VLC_paz6r1rewnh0a!APP"
         ]
@@ -1058,6 +1067,7 @@
           "music.yandex.ru"
         ],
         "win_winrt": [
+          "A025C540.Yandex.Music_vfvw9svesycw6!app",
           "A025C540.Yandex.Music_vfvw9svesycw6!App",
           "A025C540.Yandex.Music_vfvw9svesycw6!APP",
           "ru.yandex.desktop.music",
@@ -1113,6 +1123,7 @@
         "win_winrt": [
           "YouTube Music.exe",
           "com.github.th-ch.youtube-music",
+          "music.youtube.com-5929F88E_vezhnr0wkvrcy!app",
           "music.youtube.com-5929F88E_vezhnr0wkvrcy!App",
           "music.youtube.com-5929F88E_vezhnr0wkvrcy!APP"
         ]
