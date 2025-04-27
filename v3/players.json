@@ -130,8 +130,9 @@
         ],
         "win_winrt": [
           "AppleMusic.exe",
+          "AppleInc.AppleMusicWin_nzyj5cx40ttqa!APP",
           "AppleInc.AppleMusicWin_nzyj5cx40ttqa!App",
-          "AppleInc.AppleMusicWin_nzyj5cx40ttqa!APP"
+          "AppleInc.AppleMusicWin_nzyj5cx40ttqa!app"
         ],
         "mac_mediaremote": [
           "com.apple.Music"
