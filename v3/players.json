@@ -626,6 +626,27 @@
       }
     },
     {
+      "id": "kde-connect",
+      "name": "KDE Connect",
+      "url": "https://kdeconnect.kde.org",
+      "sources": {
+        "lin_mpris": [
+          "kdeconnect"
+        ]
+      },
+      "attributes": {
+        "pure": false,
+        "service": false
+      },
+      "content": [
+        "video",
+        "audio"
+      ],
+      "extra": {
+        "discord_application_id": "1373052560063205406"
+      }
+    },
+    {
       "id": "kew",
       "name": "kew",
       "url": "https://github.com/ravachol/kew",
@@ -1172,7 +1193,8 @@
       "sources": {
         "lin_mpris": [
           "spotify",
-          "spotify_player"
+          "spotify_player",
+          "spotifyd"
         ],
         "web_domain": [
           "open.spotify.com"
@@ -1984,6 +2006,24 @@
         "type": "ico",
         "url": "https://live.musicpresence.app/v3/icons/jiosaavn/tray-menu.ico",
         "md5": "6bf6ceece5d54389ec6a5b67f167ab75"
+      }
+    ],
+    "kde-connect": [
+      {
+        "label": "discord-large-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/kde-connect/discord-large-image.png"
+      },
+      {
+        "label": "discord-small-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/kde-connect/discord-small-image.png"
+      },
+      {
+        "label": "tray-menu",
+        "type": "ico",
+        "url": "https://live.musicpresence.app/v3/icons/kde-connect/tray-menu.ico",
+        "md5": "747491f4b41a8c89a63bdbe6ba685d89"
       }
     ],
     "mediamonkey": [
