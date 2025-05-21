@@ -1138,6 +1138,29 @@
       }
     },
     {
+      "id": "screenbox",
+      "name": "Screenbox",
+      "url": "https://github.com/huynhsontung/Screenbox",
+      "sources": {
+        "win_winrt": [
+          "18496Starpine.Screenbox_rm8wvch11q4my!app",
+          "18496Starpine.Screenbox_rm8wvch11q4my!App",
+          "18496Starpine.Screenbox_rm8wvch11q4my!APP"
+        ]
+      },
+      "attributes": {
+        "pure": false,
+        "service": false
+      },
+      "content": [
+        "video",
+        "audio"
+      ],
+      "extra": {
+        "discord_application_id": "1285586777616420885"
+      }
+    },
+    {
       "id": "sonixd",
       "name": "Sonixd",
       "url": "https://github.com/jeffvli/sonixd",
@@ -2384,6 +2407,24 @@
         "type": "ico",
         "url": "https://live.musicpresence.app/v3/icons/saturn/tray-menu.ico",
         "md5": "051c755148c705fe03e6d97d0364e0f3"
+      }
+    ],
+    "screenbox": [
+      {
+        "label": "discord-large-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/screenbox/discord-large-image.png"
+      },
+      {
+        "label": "discord-small-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/screenbox/discord-small-image.png"
+      },
+      {
+        "label": "tray-menu",
+        "type": "ico",
+        "url": "https://live.musicpresence.app/v3/icons/screenbox/tray-menu.ico",
+        "md5": "a08e7210007d2f342409addd2d0db189"
       }
     ],
     "sonixd": [
