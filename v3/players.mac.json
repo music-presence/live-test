@@ -481,6 +481,28 @@
       }
     },
     {
+      "id": "submariner",
+      "name": "Submariner",
+      "url": "https://submarinerapp.com",
+      "sources": {
+        "mac_mediaremote": [
+          "fr.read-write.Submariner"
+        ]
+      },
+      "attributes": {
+        "pure": true,
+        "service": false
+      },
+      "content": [
+        "audio",
+        "audio_music",
+        "audio_podcast"
+      ],
+      "extra": {
+        "discord_application_id": "1375749158605946890"
+      }
+    },
+    {
       "id": "tidal",
       "name": "TIDAL",
       "url": "https://tidal.com",
@@ -957,6 +979,24 @@
         "type": "ico",
         "url": "https://live.musicpresence.app/v3/icons/spotify/tray-menu.ico",
         "md5": "5f8e1ff7f26d40d945e0730fd1890762"
+      }
+    ],
+    "submariner": [
+      {
+        "label": "discord-large-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/submariner/discord-large-image.png"
+      },
+      {
+        "label": "discord-small-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/submariner/discord-small-image.png"
+      },
+      {
+        "label": "tray-menu",
+        "type": "ico",
+        "url": "https://live.musicpresence.app/v3/icons/submariner/tray-menu.ico",
+        "md5": "cd3eb102eb662b42424b198cef474504"
       }
     ],
     "tidal": [
