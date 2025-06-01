@@ -1060,6 +1060,29 @@
       }
     },
     {
+      "id": "windows-subsystem-for-android",
+      "name": "WSA",
+      "url": "https://learn.microsoft.com/en-us/windows/android/wsa",
+      "sources": {
+        "win_winrt": [
+          "MicrosoftCorporationII.WindowsSubsystemForAndroid_8wekyb3d8bbwe!app",
+          "MicrosoftCorporationII.WindowsSubsystemForAndroid_8wekyb3d8bbwe!App",
+          "MicrosoftCorporationII.WindowsSubsystemForAndroid_8wekyb3d8bbwe!APP"
+        ]
+      },
+      "attributes": {
+        "pure": false,
+        "service": false
+      },
+      "content": [
+        "video",
+        "audio"
+      ],
+      "extra": {
+        "discord_application_id": "1378817197836603542"
+      }
+    },
+    {
       "id": "wora",
       "name": "Wora",
       "url": "https://github.com/hiaaryan/wora",
@@ -1956,6 +1979,24 @@
         "type": "ico",
         "url": "https://live.musicpresence.app/v3/icons/windows-media-player/tray-menu.ico",
         "md5": "715618d30ab8ba04a1578baa1e9f1930"
+      }
+    ],
+    "windows-subsystem-for-android": [
+      {
+        "label": "discord-large-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/windows-subsystem-for-android/discord-large-image.png"
+      },
+      {
+        "label": "discord-small-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/windows-subsystem-for-android/discord-small-image.png"
+      },
+      {
+        "label": "tray-menu",
+        "type": "ico",
+        "url": "https://live.musicpresence.app/v3/icons/windows-subsystem-for-android/tray-menu.ico",
+        "md5": "92e525b7cb2f0cfcbc2f4a5b0f61c931"
       }
     ],
     "wora": [
