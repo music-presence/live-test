@@ -270,6 +270,30 @@
       }
     },
     {
+      "id": "daftcloud",
+      "name": "DaftCloud",
+      "url": "https://daft.cloud",
+      "represents": [
+        "soundcloud"
+      ],
+      "sources": {
+        "mac_mediaremote": [
+          "com.obrhoff.daftcloud"
+        ]
+      },
+      "attributes": {
+        "pure": true,
+        "service": false
+      },
+      "content": [
+        "audio",
+        "audio_music"
+      ],
+      "extra": {
+        "discord_application_id": "1378815319866605850"
+      }
+    },
+    {
       "id": "deezer",
       "name": "Deezer",
       "url": "https://deezer.com",
@@ -1781,6 +1805,24 @@
         "type": "ico",
         "url": "https://live.musicpresence.app/v3/icons/clementine/tray-menu.ico",
         "md5": "b2cee3a73df857c3d4ae7d4b8a6b73bb"
+      }
+    ],
+    "daftcloud": [
+      {
+        "label": "discord-large-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/daftcloud/discord-large-image.png"
+      },
+      {
+        "label": "discord-small-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/daftcloud/discord-small-image.png"
+      },
+      {
+        "label": "tray-menu",
+        "type": "ico",
+        "url": "https://live.musicpresence.app/v3/icons/daftcloud/tray-menu.ico",
+        "md5": "30a30fe4b74d1dfb0859380304d92752"
       }
     ],
     "deezer": [
