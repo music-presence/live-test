@@ -432,6 +432,48 @@
       }
     },
     {
+      "id": "netease-cloud-music",
+      "name": "NetEase Cloud Music",
+      "url": "https://music.163.com",
+      "sources": {
+        "web_domain": [
+          "music.163.com"
+        ]
+      },
+      "attributes": {
+        "pure": true,
+        "service": true
+      },
+      "content": [
+        "audio",
+        "audio_music"
+      ],
+      "extra": {
+        "discord_application_id": "1379380766546329751"
+      }
+    },
+    {
+      "id": "netease-cloud-music-zh-placeholder",
+      "name": "\u7f51\u6613\u4e91\u97f3\u4e50",
+      "url": "https://music.163.com",
+      "sources": {
+        "web_domain": [
+          "music.163.com.example.com"
+        ]
+      },
+      "attributes": {
+        "pure": true,
+        "service": true
+      },
+      "content": [
+        "audio",
+        "audio_music"
+      ],
+      "extra": {
+        "discord_application_id": "1379385113573593119"
+      }
+    },
+    {
       "id": "plex",
       "name": "Plex",
       "url": "https://plex.tv",
@@ -1073,6 +1115,42 @@
         "type": "ico",
         "url": "https://live.musicpresence.app/v3/icons/kde-connect/tray-menu.ico",
         "md5": "747491f4b41a8c89a63bdbe6ba685d89"
+      }
+    ],
+    "netease-cloud-music": [
+      {
+        "label": "discord-large-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/netease-cloud-music/discord-large-image.png"
+      },
+      {
+        "label": "discord-small-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/netease-cloud-music/discord-small-image.png"
+      },
+      {
+        "label": "tray-menu",
+        "type": "ico",
+        "url": "https://live.musicpresence.app/v3/icons/netease-cloud-music/tray-menu.ico",
+        "md5": "42e06c23a6a4a15e53fd834197f814ce"
+      }
+    ],
+    "netease-cloud-music-zh-placeholder": [
+      {
+        "label": "discord-large-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/netease-cloud-music-zh-placeholder/discord-large-image.png"
+      },
+      {
+        "label": "discord-small-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/netease-cloud-music-zh-placeholder/discord-small-image.png"
+      },
+      {
+        "label": "tray-menu",
+        "type": "ico",
+        "url": "https://live.musicpresence.app/v3/icons/netease-cloud-music-zh-placeholder/tray-menu.ico",
+        "md5": "42e06c23a6a4a15e53fd834197f814ce"
       }
     ],
     "plex": [

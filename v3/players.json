@@ -851,6 +851,48 @@
       }
     },
     {
+      "id": "netease-cloud-music",
+      "name": "NetEase Cloud Music",
+      "url": "https://music.163.com",
+      "sources": {
+        "web_domain": [
+          "music.163.com"
+        ]
+      },
+      "attributes": {
+        "pure": true,
+        "service": true
+      },
+      "content": [
+        "audio",
+        "audio_music"
+      ],
+      "extra": {
+        "discord_application_id": "1379380766546329751"
+      }
+    },
+    {
+      "id": "netease-cloud-music-zh-placeholder",
+      "name": "\u7f51\u6613\u4e91\u97f3\u4e50",
+      "url": "https://music.163.com",
+      "sources": {
+        "web_domain": [
+          "music.163.com.example.com"
+        ]
+      },
+      "attributes": {
+        "pure": true,
+        "service": true
+      },
+      "content": [
+        "audio",
+        "audio_music"
+      ],
+      "extra": {
+        "discord_application_id": "1379385113573593119"
+      }
+    },
+    {
       "id": "next-player",
       "name": "Next-Player",
       "url": "https://apps.microsoft.com/detail/9nblggh67n4f",
@@ -1607,6 +1649,31 @@
       }
     },
     {
+      "id": "yesplaymusic",
+      "name": "YesPlayMusic",
+      "url": "https://github.com/qier222/YesPlayMusic",
+      "represents": [
+        "netease-cloud-music",
+        "netease-cloud-music-zh-placeholder"
+      ],
+      "sources": {
+        "win_winrt": [
+          "com.electron.yesplaymusic"
+        ]
+      },
+      "attributes": {
+        "pure": true,
+        "service": false
+      },
+      "content": [
+        "audio",
+        "audio_music"
+      ],
+      "extra": {
+        "discord_application_id": "1379383557004329051"
+      }
+    },
+    {
       "id": "youtube",
       "name": "YouTube",
       "url": "https://youtube.com",
@@ -2262,6 +2329,42 @@
         "md5": "9ca3fe3f5fc97743e1455b8f436f9ac6"
       }
     ],
+    "netease-cloud-music": [
+      {
+        "label": "discord-large-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/netease-cloud-music/discord-large-image.png"
+      },
+      {
+        "label": "discord-small-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/netease-cloud-music/discord-small-image.png"
+      },
+      {
+        "label": "tray-menu",
+        "type": "ico",
+        "url": "https://live.musicpresence.app/v3/icons/netease-cloud-music/tray-menu.ico",
+        "md5": "42e06c23a6a4a15e53fd834197f814ce"
+      }
+    ],
+    "netease-cloud-music-zh-placeholder": [
+      {
+        "label": "discord-large-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/netease-cloud-music-zh-placeholder/discord-large-image.png"
+      },
+      {
+        "label": "discord-small-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/netease-cloud-music-zh-placeholder/discord-small-image.png"
+      },
+      {
+        "label": "tray-menu",
+        "type": "ico",
+        "url": "https://live.musicpresence.app/v3/icons/netease-cloud-music-zh-placeholder/tray-menu.ico",
+        "md5": "42e06c23a6a4a15e53fd834197f814ce"
+      }
+    ],
     "next-player": [
       {
         "label": "discord-large-image",
@@ -2818,6 +2921,24 @@
         "type": "ico",
         "url": "https://live.musicpresence.app/v3/icons/yandex-music/tray-menu.ico",
         "md5": "0d6bae9c4100ccfcef3ce9f999388e34"
+      }
+    ],
+    "yesplaymusic": [
+      {
+        "label": "discord-large-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/yesplaymusic/discord-large-image.png"
+      },
+      {
+        "label": "discord-small-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/yesplaymusic/discord-small-image.png"
+      },
+      {
+        "label": "tray-menu",
+        "type": "ico",
+        "url": "https://live.musicpresence.app/v3/icons/yesplaymusic/tray-menu.ico",
+        "md5": "4e9c8696b7309eb9e34816fbde9e8821"
       }
     ],
     "youtube": [
