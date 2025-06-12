@@ -875,6 +875,9 @@
       "id": "netease-cloud-music",
       "name": "NetEase Cloud Music",
       "url": "https://music.163.com",
+      "represents": [
+        "netease-cloud-music-zh-placeholder"
+      ],
       "sources": {
         "web_domain": [
           "music.163.com"
@@ -1110,6 +1113,54 @@
       ],
       "extra": {
         "discord_application_id": "1247655024637513778"
+      }
+    },
+    {
+      "id": "qq-music",
+      "name": "QQ Music",
+      "url": "https://y.qq.com",
+      "represents": [
+        "qq-music-zh-placeholder"
+      ],
+      "sources": {
+        "web_domain": [
+          "y.qq.com"
+        ],
+        "win_winrt": [
+          "QQMusic.exe"
+        ]
+      },
+      "attributes": {
+        "pure": true,
+        "service": true
+      },
+      "content": [
+        "audio",
+        "audio_music"
+      ],
+      "extra": {
+        "discord_application_id": "1382766096397897849"
+      }
+    },
+    {
+      "id": "qq-music-zh-placeholder",
+      "name": "QQ\u97f3\u4e50",
+      "url": "http://y.qq.com",
+      "sources": {
+        "web_domain": [
+          "y.qq.com.example.com"
+        ]
+      },
+      "attributes": {
+        "pure": true,
+        "service": true
+      },
+      "content": [
+        "audio",
+        "audio_music"
+      ],
+      "extra": {
+        "discord_application_id": "1382766648888397934"
       }
     },
     {
@@ -2546,6 +2597,42 @@
         "type": "ico",
         "url": "https://live.musicpresence.app/v3/icons/qobuz/tray-menu.ico",
         "md5": "ca523146618c71043c89170e4620d6a4"
+      }
+    ],
+    "qq-music": [
+      {
+        "label": "discord-large-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/qq-music/discord-large-image.png"
+      },
+      {
+        "label": "discord-small-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/qq-music/discord-small-image.png"
+      },
+      {
+        "label": "tray-menu",
+        "type": "ico",
+        "url": "https://live.musicpresence.app/v3/icons/qq-music/tray-menu.ico",
+        "md5": "f2865e695b1f08fb616e963d92e1b095"
+      }
+    ],
+    "qq-music-zh-placeholder": [
+      {
+        "label": "discord-large-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/qq-music-zh-placeholder/discord-large-image.png"
+      },
+      {
+        "label": "discord-small-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/qq-music-zh-placeholder/discord-small-image.png"
+      },
+      {
+        "label": "tray-menu",
+        "type": "ico",
+        "url": "https://live.musicpresence.app/v3/icons/qq-music-zh-placeholder/tray-menu.ico",
+        "md5": "f2865e695b1f08fb616e963d92e1b095"
       }
     ],
     "quodlibet": [
