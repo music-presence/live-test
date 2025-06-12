@@ -270,6 +270,27 @@
       }
     },
     {
+      "id": "cog",
+      "name": "Cog",
+      "url": "https://cog.losno.co",
+      "sources": {
+        "mac_mediaremote": [
+          "org.cogx.cog"
+        ]
+      },
+      "attributes": {
+        "pure": true,
+        "service": false
+      },
+      "content": [
+        "audio",
+        "audio_music"
+      ],
+      "extra": {
+        "discord_application_id": "1382653787864305694"
+      }
+    },
+    {
       "id": "daftcloud",
       "name": "DaftCloud",
       "url": "https://daft.cloud",
@@ -1895,6 +1916,24 @@
         "type": "ico",
         "url": "https://live.musicpresence.app/v3/icons/clementine/tray-menu.ico",
         "md5": "b2cee3a73df857c3d4ae7d4b8a6b73bb"
+      }
+    ],
+    "cog": [
+      {
+        "label": "discord-large-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/cog/discord-large-image.png"
+      },
+      {
+        "label": "discord-small-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/cog/discord-small-image.png"
+      },
+      {
+        "label": "tray-menu",
+        "type": "ico",
+        "url": "https://live.musicpresence.app/v3/icons/cog/tray-menu.ico",
+        "md5": "2df07f0cff96f229d1cb6008569fad53"
       }
     ],
     "daftcloud": [
