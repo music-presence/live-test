@@ -180,6 +180,28 @@
       }
     },
     {
+      "id": "pandora",
+      "name": "Pandora",
+      "url": "https://pandora.com",
+      "sources": {
+        "web_domain": [
+          "pandora.com"
+        ]
+      },
+      "attributes": {
+        "pure": true,
+        "service": true
+      },
+      "content": [
+        "audio",
+        "audio_music",
+        "audio_podcast"
+      ],
+      "extra": {
+        "discord_application_id": "1383871499492135112"
+      }
+    },
+    {
       "id": "plex",
       "name": "Plex",
       "url": "https://plex.tv",
@@ -570,6 +592,24 @@
         "type": "ico",
         "url": "https://live.musicpresence.app/v3/icons/netease-cloud-music-zh-placeholder/tray-menu.ico",
         "md5": "42e06c23a6a4a15e53fd834197f814ce"
+      }
+    ],
+    "pandora": [
+      {
+        "label": "discord-large-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/pandora/discord-large-image.png"
+      },
+      {
+        "label": "discord-small-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/pandora/discord-small-image.png"
+      },
+      {
+        "label": "tray-menu",
+        "type": "ico",
+        "url": "https://live.musicpresence.app/v3/icons/pandora/tray-menu.ico",
+        "md5": "ac099965daceb88672145f251e3efb42"
       }
     ],
     "plex": [
