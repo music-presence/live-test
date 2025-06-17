@@ -109,7 +109,8 @@
       ],
       "sources": {
         "mac_mediaremote": [
-          "sh.cider.electron"
+          "sh.cider.electron",
+          "sh.cider.genten.mac"
         ]
       },
       "attributes": {

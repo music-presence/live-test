@@ -212,7 +212,8 @@
           "27554FireDevElijahKlauman.CiderEA_270bejk4xgzqp!APP"
         ],
         "mac_mediaremote": [
-          "sh.cider.electron"
+          "sh.cider.electron",
+          "sh.cider.genten.mac"
         ]
       },
       "attributes": {
