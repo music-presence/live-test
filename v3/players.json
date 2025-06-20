@@ -121,6 +121,27 @@
       }
     },
     {
+      "id": "apple-books",
+      "name": "Apple Books",
+      "url": "https://www.apple.com/apple-books",
+      "sources": {
+        "mac_mediaremote": [
+          "com.apple.iBooksX"
+        ]
+      },
+      "attributes": {
+        "pure": true,
+        "service": true
+      },
+      "content": [
+        "audio",
+        "audio_audiobook"
+      ],
+      "extra": {
+        "discord_application_id": "1385564315272216666"
+      }
+    },
+    {
       "id": "apple-music",
       "name": "Apple Music",
       "url": "https://music.apple.com",
@@ -1905,6 +1926,24 @@
         "type": "ico",
         "url": "https://live.musicpresence.app/v3/icons/ampcast/tray-menu.ico",
         "md5": "a5192f3fc9bd48e76b61dbf485a898eb"
+      }
+    ],
+    "apple-books": [
+      {
+        "label": "discord-large-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/apple-books/discord-large-image.png"
+      },
+      {
+        "label": "discord-small-image",
+        "type": "png",
+        "url": "https://live.musicpresence.app/v3/icons/apple-books/discord-small-image.png"
+      },
+      {
+        "label": "tray-menu",
+        "type": "ico",
+        "url": "https://live.musicpresence.app/v3/icons/apple-books/tray-menu.ico",
+        "md5": "c693ed7fae7bc0e7f0ad215c4bd66077"
       }
     ],
     "apple-music": [
