@@ -885,666 +885,666 @@
       {
         "label": "discord-large-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/amazon-music/discord-large-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/amazon-music/discord-large-image.7180e4f57902.png"
       },
       {
         "label": "discord-small-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/amazon-music/discord-small-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/amazon-music/discord-small-image.92dbad02948c.png"
       },
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://music-presence.github.io/live-test/icons/amazon-music/tray-menu.ico",
-        "md5": "9d45d9bea953e20065c51d5f6152ea4b"
+        "url": "https://music-presence.github.io/live-test/icons/amazon-music/tray-menu.0e7d88484642.ico",
+        "md5": "6d0f38bddca4296b7f81e9f58c27a658"
       }
     ],
     "amberol": [
       {
         "label": "discord-large-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/amberol/discord-large-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/amberol/discord-large-image.19fafcdb58c7.png"
       },
       {
         "label": "discord-small-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/amberol/discord-small-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/amberol/discord-small-image.d414ae0c2433.png"
       },
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://music-presence.github.io/live-test/icons/amberol/tray-menu.ico",
-        "md5": "c63e1a89e73e7cbd18279226775b8cf4"
+        "url": "https://music-presence.github.io/live-test/icons/amberol/tray-menu.40b93a876e1e.ico",
+        "md5": "8ff89d708bd0c37d63c54a4caee90838"
       }
     ],
     "apple-music": [
       {
         "label": "discord-large-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/apple-music/discord-large-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/apple-music/discord-large-image.bde33c749679.png"
       },
       {
         "label": "discord-small-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/apple-music/discord-small-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/apple-music/discord-small-image.f8d956e95fba.png"
       },
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://music-presence.github.io/live-test/icons/apple-music/tray-menu.ico",
-        "md5": "108ee73628984b1cbf271fef89fe6ec5"
+        "url": "https://music-presence.github.io/live-test/icons/apple-music/tray-menu.6e492d2a343e.ico",
+        "md5": "80f551180807311ce2734e2b65659b97"
       }
     ],
     "apple-podcasts": [
       {
         "label": "discord-large-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/apple-podcasts/discord-large-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/apple-podcasts/discord-large-image.400da160be6d.png"
       },
       {
         "label": "discord-small-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/apple-podcasts/discord-small-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/apple-podcasts/discord-small-image.09f531dbcde1.png"
       },
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://music-presence.github.io/live-test/icons/apple-podcasts/tray-menu.ico",
-        "md5": "1814e6e642d8a22293a0db5734f506d1"
+        "url": "https://music-presence.github.io/live-test/icons/apple-podcasts/tray-menu.4c5b7a7e033d.ico",
+        "md5": "818727bd0763b155509823df1db932a4"
       }
     ],
     "audacious": [
       {
         "label": "discord-large-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/audacious/discord-large-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/audacious/discord-large-image.d89f72b93f98.png"
       },
       {
         "label": "discord-small-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/audacious/discord-small-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/audacious/discord-small-image.8f1662bd5810.png"
       },
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://music-presence.github.io/live-test/icons/audacious/tray-menu.ico",
-        "md5": "dce05a4fa77c07d64cfc5dfd8377ce4a"
+        "url": "https://music-presence.github.io/live-test/icons/audacious/tray-menu.8c67941ec7cb.ico",
+        "md5": "943b5cba9c497b2c4034787fd0b83634"
       }
     ],
     "cider": [
       {
         "label": "discord-large-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/cider/discord-large-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/cider/discord-large-image.d6e3309f0fdb.png"
       },
       {
         "label": "discord-small-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/cider/discord-small-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/cider/discord-small-image.69c0fa2f4796.png"
       },
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://music-presence.github.io/live-test/icons/cider/tray-menu.ico",
-        "md5": "f56e1458cd24edbe6136df62161c03ff"
+        "url": "https://music-presence.github.io/live-test/icons/cider/tray-menu.75eb77fc5cfb.ico",
+        "md5": "9b25177ee7eb0c7e38610266a1cc9e49"
       }
     ],
     "clementine": [
       {
         "label": "discord-large-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/clementine/discord-large-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/clementine/discord-large-image.138f3c8df5de.png"
       },
       {
         "label": "discord-small-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/clementine/discord-small-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/clementine/discord-small-image.5c9d42d1daa1.png"
       },
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://music-presence.github.io/live-test/icons/clementine/tray-menu.ico",
-        "md5": "b2cee3a73df857c3d4ae7d4b8a6b73bb"
+        "url": "https://music-presence.github.io/live-test/icons/clementine/tray-menu.95140ed54449.ico",
+        "md5": "fb6e6e48368799ea870ed735e773363c"
       }
     ],
     "deezer": [
       {
         "label": "discord-large-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/deezer/discord-large-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/deezer/discord-large-image.6fde71caaefe.png"
       },
       {
         "label": "discord-small-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/deezer/discord-small-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/deezer/discord-small-image.d8a2b1c533df.png"
       },
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://music-presence.github.io/live-test/icons/deezer/tray-menu.ico",
-        "md5": "fd76fa56b7ceb3ff308b49c7e0d35e0e"
+        "url": "https://music-presence.github.io/live-test/icons/deezer/tray-menu.eeddb6114a55.ico",
+        "md5": "9dd7680d8b4c99e3ca0fcd6866754f86"
       }
     ],
     "elisa": [
       {
         "label": "discord-large-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/elisa/discord-large-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/elisa/discord-large-image.1835ac7f4316.png"
       },
       {
         "label": "discord-small-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/elisa/discord-small-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/elisa/discord-small-image.d03dadccb12a.png"
       },
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://music-presence.github.io/live-test/icons/elisa/tray-menu.ico",
-        "md5": "23453911fbd0dd78f9f15a9e030e57d5"
+        "url": "https://music-presence.github.io/live-test/icons/elisa/tray-menu.13fd3366e200.ico",
+        "md5": "af3d2ce6744adb631c210eeb2da4ae30"
       }
     ],
     "foobar2000": [
       {
         "label": "discord-large-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/foobar2000/discord-large-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/foobar2000/discord-large-image.3da03574b8e2.png"
       },
       {
         "label": "discord-small-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/foobar2000/discord-small-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/foobar2000/discord-small-image.17392d8d70b2.png"
       },
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://music-presence.github.io/live-test/icons/foobar2000/tray-menu.ico",
-        "md5": "73b9a1c1563fda9d32996385d74c1f94"
+        "url": "https://music-presence.github.io/live-test/icons/foobar2000/tray-menu.633a4d87ca93.ico",
+        "md5": "933306823c37869d9afac3cdf66d2404"
       }
     ],
     "fooyin": [
       {
         "label": "discord-large-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/fooyin/discord-large-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/fooyin/discord-large-image.54f8ffa1295d.png"
       },
       {
         "label": "discord-small-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/fooyin/discord-small-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/fooyin/discord-small-image.1d7d4e4c955e.png"
       },
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://music-presence.github.io/live-test/icons/fooyin/tray-menu.ico",
-        "md5": "97d14a8aea4633566658a759b3daa730"
+        "url": "https://music-presence.github.io/live-test/icons/fooyin/tray-menu.4d2f530246b4.ico",
+        "md5": "500e13d88b0ae588de687fd8a3045434"
       }
     ],
     "g4music": [
       {
         "label": "discord-large-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/g4music/discord-large-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/g4music/discord-large-image.9c2f2604990a.png"
       },
       {
         "label": "discord-small-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/g4music/discord-small-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/g4music/discord-small-image.a49f4b760d24.png"
       },
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://music-presence.github.io/live-test/icons/g4music/tray-menu.ico",
-        "md5": "293ae6d9cddcd23fed76dfb304181ceb"
+        "url": "https://music-presence.github.io/live-test/icons/g4music/tray-menu.a559a1c4bb71.ico",
+        "md5": "07b4b62f03c1875291b4e66dcb974e6b"
       }
     ],
     "gnome-lollypop": [
       {
         "label": "discord-large-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/gnome-lollypop/discord-large-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/gnome-lollypop/discord-large-image.c7f47e469a3a.png"
       },
       {
         "label": "discord-small-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/gnome-lollypop/discord-small-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/gnome-lollypop/discord-small-image.89d51f8e17a9.png"
       },
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://music-presence.github.io/live-test/icons/gnome-lollypop/tray-menu.ico",
-        "md5": "4b4a9c0b5798cbb689dce755b701ac71"
+        "url": "https://music-presence.github.io/live-test/icons/gnome-lollypop/tray-menu.0649bfe3508b.ico",
+        "md5": "cd23e3dd93c4098a272ebc640c197576"
       }
     ],
     "gnome-music": [
       {
         "label": "discord-large-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/gnome-music/discord-large-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/gnome-music/discord-large-image.5f33adb9a40e.png"
       },
       {
         "label": "discord-small-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/gnome-music/discord-small-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/gnome-music/discord-small-image.b7766c56598f.png"
       },
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://music-presence.github.io/live-test/icons/gnome-music/tray-menu.ico",
-        "md5": "2de2084c6581df1afa3179bd82f78b1f"
+        "url": "https://music-presence.github.io/live-test/icons/gnome-music/tray-menu.d2e1a84ab074.ico",
+        "md5": "4b6754786b0f461f4aa6748aa8f5e9d8"
       }
     ],
     "harmonoid": [
       {
         "label": "discord-large-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/harmonoid/discord-large-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/harmonoid/discord-large-image.b5cead5a0037.png"
       },
       {
         "label": "discord-small-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/harmonoid/discord-small-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/harmonoid/discord-small-image.ed1768a1f30d.png"
       },
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://music-presence.github.io/live-test/icons/harmonoid/tray-menu.ico",
-        "md5": "0dd5bdf5abfe192d963fc0e5e1a98b61"
+        "url": "https://music-presence.github.io/live-test/icons/harmonoid/tray-menu.b24815a19716.ico",
+        "md5": "803e1e2cce04f248773265f22a56a577"
       }
     ],
     "jiosaavn": [
       {
         "label": "discord-large-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/jiosaavn/discord-large-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/jiosaavn/discord-large-image.32c7dfb5c8a2.png"
       },
       {
         "label": "discord-small-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/jiosaavn/discord-small-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/jiosaavn/discord-small-image.f7b45f700973.png"
       },
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://music-presence.github.io/live-test/icons/jiosaavn/tray-menu.ico",
-        "md5": "6bf6ceece5d54389ec6a5b67f167ab75"
+        "url": "https://music-presence.github.io/live-test/icons/jiosaavn/tray-menu.39949b86bb12.ico",
+        "md5": "758471a305457433cf0d6ada4acc4407"
       }
     ],
     "kde-connect": [
       {
         "label": "discord-large-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/kde-connect/discord-large-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/kde-connect/discord-large-image.108b501e2ffc.png"
       },
       {
         "label": "discord-small-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/kde-connect/discord-small-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/kde-connect/discord-small-image.65e932be2a5d.png"
       },
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://music-presence.github.io/live-test/icons/kde-connect/tray-menu.ico",
-        "md5": "747491f4b41a8c89a63bdbe6ba685d89"
+        "url": "https://music-presence.github.io/live-test/icons/kde-connect/tray-menu.b0e5e279a6b3.ico",
+        "md5": "e44071543a827532612d940eb1c5e755"
       }
     ],
     "netease-cloud-music": [
       {
         "label": "discord-large-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/netease-cloud-music/discord-large-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/netease-cloud-music/discord-large-image.46ad30329458.png"
       },
       {
         "label": "discord-small-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/netease-cloud-music/discord-small-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/netease-cloud-music/discord-small-image.a52ad4eb79d6.png"
       },
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://music-presence.github.io/live-test/icons/netease-cloud-music/tray-menu.ico",
-        "md5": "42e06c23a6a4a15e53fd834197f814ce"
+        "url": "https://music-presence.github.io/live-test/icons/netease-cloud-music/tray-menu.073b313764ce.ico",
+        "md5": "5a308635de5052f75cfda45c8cb902b1"
       }
     ],
     "netease-cloud-music-zh-placeholder": [
       {
         "label": "discord-large-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/netease-cloud-music-zh-placeholder/discord-large-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/netease-cloud-music-zh-placeholder/discord-large-image.46ad30329458.png"
       },
       {
         "label": "discord-small-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/netease-cloud-music-zh-placeholder/discord-small-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/netease-cloud-music-zh-placeholder/discord-small-image.a52ad4eb79d6.png"
       },
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://music-presence.github.io/live-test/icons/netease-cloud-music-zh-placeholder/tray-menu.ico",
-        "md5": "42e06c23a6a4a15e53fd834197f814ce"
+        "url": "https://music-presence.github.io/live-test/icons/netease-cloud-music-zh-placeholder/tray-menu.073b313764ce.ico",
+        "md5": "5a308635de5052f75cfda45c8cb902b1"
       }
     ],
     "pandora": [
       {
         "label": "discord-large-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/pandora/discord-large-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/pandora/discord-large-image.e8d100a37e9a.png"
       },
       {
         "label": "discord-small-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/pandora/discord-small-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/pandora/discord-small-image.e8ffe793883d.png"
       },
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://music-presence.github.io/live-test/icons/pandora/tray-menu.ico",
-        "md5": "ac099965daceb88672145f251e3efb42"
+        "url": "https://music-presence.github.io/live-test/icons/pandora/tray-menu.99a301d38fc0.ico",
+        "md5": "431d2ed3212cbab654cafe36f2af750c"
       }
     ],
     "plex": [
       {
         "label": "discord-large-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/plex/discord-large-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/plex/discord-large-image.e99db50c9213.png"
       },
       {
         "label": "discord-small-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/plex/discord-small-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/plex/discord-small-image.321754943e13.png"
       },
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://music-presence.github.io/live-test/icons/plex/tray-menu.ico",
-        "md5": "063abc31c4c6e4565d3907ad2841d148"
+        "url": "https://music-presence.github.io/live-test/icons/plex/tray-menu.12d8076835b6.ico",
+        "md5": "ec9bea1c8f203a20a741c29896d58c9c"
       }
     ],
     "pocket-casts": [
       {
         "label": "discord-large-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/pocket-casts/discord-large-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/pocket-casts/discord-large-image.0cc5da683c4c.png"
       },
       {
         "label": "discord-small-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/pocket-casts/discord-small-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/pocket-casts/discord-small-image.6e494c920916.png"
       },
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://music-presence.github.io/live-test/icons/pocket-casts/tray-menu.ico",
-        "md5": "b05ddc537999b64feaee59abd5866486"
+        "url": "https://music-presence.github.io/live-test/icons/pocket-casts/tray-menu.7e0198ba345b.ico",
+        "md5": "5f23a38351d7cc115cca152cec9bc96e"
       }
     ],
     "podurama": [
       {
         "label": "discord-large-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/podurama/discord-large-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/podurama/discord-large-image.e76e9ab45a20.png"
       },
       {
         "label": "discord-small-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/podurama/discord-small-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/podurama/discord-small-image.238d19711e0a.png"
       },
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://music-presence.github.io/live-test/icons/podurama/tray-menu.ico",
-        "md5": "8c78d74a742068278c5b9438e09fec6d"
+        "url": "https://music-presence.github.io/live-test/icons/podurama/tray-menu.4a8ccdc59ada.ico",
+        "md5": "a19d7bcbecbf04c45545dca6f8a6b3dd"
       }
     ],
     "qobuz": [
       {
         "label": "discord-large-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/qobuz/discord-large-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/qobuz/discord-large-image.89c058528907.png"
       },
       {
         "label": "discord-small-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/qobuz/discord-small-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/qobuz/discord-small-image.237e615a16ae.png"
       },
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://music-presence.github.io/live-test/icons/qobuz/tray-menu.ico",
-        "md5": "ca523146618c71043c89170e4620d6a4"
+        "url": "https://music-presence.github.io/live-test/icons/qobuz/tray-menu.5fd8fa82db1e.ico",
+        "md5": "274c8bd78fe5b7bd68b204d21e4b9f9d"
       }
     ],
     "qq-music": [
       {
         "label": "discord-large-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/qq-music/discord-large-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/qq-music/discord-large-image.c5bb77c2b38e.png"
       },
       {
         "label": "discord-small-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/qq-music/discord-small-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/qq-music/discord-small-image.697d3cb9906b.png"
       },
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://music-presence.github.io/live-test/icons/qq-music/tray-menu.ico",
-        "md5": "f2865e695b1f08fb616e963d92e1b095"
+        "url": "https://music-presence.github.io/live-test/icons/qq-music/tray-menu.d4a42436a6eb.ico",
+        "md5": "804bc866718e3fd086ca918138c7ec80"
       }
     ],
     "qq-music-zh-placeholder": [
       {
         "label": "discord-large-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/qq-music-zh-placeholder/discord-large-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/qq-music-zh-placeholder/discord-large-image.c5bb77c2b38e.png"
       },
       {
         "label": "discord-small-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/qq-music-zh-placeholder/discord-small-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/qq-music-zh-placeholder/discord-small-image.697d3cb9906b.png"
       },
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://music-presence.github.io/live-test/icons/qq-music-zh-placeholder/tray-menu.ico",
-        "md5": "f2865e695b1f08fb616e963d92e1b095"
+        "url": "https://music-presence.github.io/live-test/icons/qq-music-zh-placeholder/tray-menu.d4a42436a6eb.ico",
+        "md5": "804bc866718e3fd086ca918138c7ec80"
       }
     ],
     "quodlibet": [
       {
         "label": "discord-large-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/quodlibet/discord-large-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/quodlibet/discord-large-image.93c73d3e40f7.png"
       },
       {
         "label": "discord-small-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/quodlibet/discord-small-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/quodlibet/discord-small-image.e045da920cf1.png"
       },
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://music-presence.github.io/live-test/icons/quodlibet/tray-menu.ico",
-        "md5": "10d702135a15777f7c87f4fba66d2fcf"
+        "url": "https://music-presence.github.io/live-test/icons/quodlibet/tray-menu.13d006a6a6ce.ico",
+        "md5": "2d1fb351dda73b161a9d91fc8f8363e3"
       }
     ],
     "recordbox": [
       {
         "label": "discord-large-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/recordbox/discord-large-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/recordbox/discord-large-image.69feb5166efd.png"
       },
       {
         "label": "discord-small-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/recordbox/discord-small-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/recordbox/discord-small-image.53e890114928.png"
       },
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://music-presence.github.io/live-test/icons/recordbox/tray-menu.ico",
-        "md5": "d7128574975c58620e5678693dba96d8"
+        "url": "https://music-presence.github.io/live-test/icons/recordbox/tray-menu.27bcc87a58ad.ico",
+        "md5": "c56e9fe7c19305fb0f4c7e2682f5afd0"
       }
     ],
     "soundcloud": [
       {
         "label": "discord-large-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/soundcloud/discord-large-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/soundcloud/discord-large-image.b1686b88a603.png"
       },
       {
         "label": "discord-small-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/soundcloud/discord-small-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/soundcloud/discord-small-image.b46a8db38114.png"
       },
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://music-presence.github.io/live-test/icons/soundcloud/tray-menu.ico",
-        "md5": "3d7af948c84ef2e5aaa34fdd08b38886"
+        "url": "https://music-presence.github.io/live-test/icons/soundcloud/tray-menu.90a33ccde2c3.ico",
+        "md5": "c1d8c2f711a2f0830e7eb1b0c58e2612"
       }
     ],
     "spotify": [
       {
         "label": "discord-large-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/spotify/discord-large-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/spotify/discord-large-image.ab6c5967e355.png"
       },
       {
         "label": "discord-small-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/spotify/discord-small-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/spotify/discord-small-image.89c185062e94.png"
       },
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://music-presence.github.io/live-test/icons/spotify/tray-menu.ico",
-        "md5": "5f8e1ff7f26d40d945e0730fd1890762"
+        "url": "https://music-presence.github.io/live-test/icons/spotify/tray-menu.53b96e1be76e.ico",
+        "md5": "0ae295fcd132e6e0ac5b2981ff4cec0f"
       }
     ],
     "strawberry": [
       {
         "label": "discord-large-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/strawberry/discord-large-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/strawberry/discord-large-image.cd9d09954ba3.png"
       },
       {
         "label": "discord-small-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/strawberry/discord-small-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/strawberry/discord-small-image.57d8339c6059.png"
       },
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://music-presence.github.io/live-test/icons/strawberry/tray-menu.ico",
-        "md5": "6b9e9e8b40c84573842821a2071153d4"
+        "url": "https://music-presence.github.io/live-test/icons/strawberry/tray-menu.215b37b83183.ico",
+        "md5": "678159c682f73253c3b2cc1d58fce0ac"
       }
     ],
     "tauon": [
       {
         "label": "discord-large-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/tauon/discord-large-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/tauon/discord-large-image.e6570b469268.png"
       },
       {
         "label": "discord-small-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/tauon/discord-small-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/tauon/discord-small-image.54e5fc59d44d.png"
       },
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://music-presence.github.io/live-test/icons/tauon/tray-menu.ico",
-        "md5": "3765851d861e9e351e189814226cb40d"
+        "url": "https://music-presence.github.io/live-test/icons/tauon/tray-menu.73cec8301c54.ico",
+        "md5": "4a2c722fdb26b956e6ac3f249520077b"
       }
     ],
     "tidal": [
       {
         "label": "discord-large-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/tidal/discord-large-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/tidal/discord-large-image.2a0bcce8cbba.png"
       },
       {
         "label": "discord-small-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/tidal/discord-small-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/tidal/discord-small-image.e87b63c1d42c.png"
       },
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://music-presence.github.io/live-test/icons/tidal/tray-menu.ico",
-        "md5": "15b2cd691bfac19f42a7db9de468b2f8"
+        "url": "https://music-presence.github.io/live-test/icons/tidal/tray-menu.1ebf95c14951.ico",
+        "md5": "97eb9875b2c56cea195f4966b8f59b7b"
       }
     ],
     "vlc": [
       {
         "label": "discord-large-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/vlc/discord-large-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/vlc/discord-large-image.807061534734.png"
       },
       {
         "label": "discord-small-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/vlc/discord-small-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/vlc/discord-small-image.ae21f35555dd.png"
       },
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://music-presence.github.io/live-test/icons/vlc/tray-menu.ico",
-        "md5": "3edb7239d0fe8801ea5680a175fb0ef1"
+        "url": "https://music-presence.github.io/live-test/icons/vlc/tray-menu.1520e942b435.ico",
+        "md5": "b2f48ea89388867beb5b0d042755339c"
       }
     ],
     "yandex-music": [
       {
         "label": "discord-large-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/yandex-music/discord-large-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/yandex-music/discord-large-image.f27993b58819.png"
       },
       {
         "label": "discord-small-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/yandex-music/discord-small-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/yandex-music/discord-small-image.c7c286945e42.png"
       },
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://music-presence.github.io/live-test/icons/yandex-music/tray-menu.ico",
-        "md5": "d3b1de92daec9fea1332f78a645b69e9"
+        "url": "https://music-presence.github.io/live-test/icons/yandex-music/tray-menu.ff5ac9e0e3da.ico",
+        "md5": "7d988302444e37c81135aa149d93f8bc"
       }
     ],
     "youtube": [
       {
         "label": "discord-large-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/youtube/discord-large-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/youtube/discord-large-image.3bb40c3ed4c6.png"
       },
       {
         "label": "discord-small-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/youtube/discord-small-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/youtube/discord-small-image.6bb2702fba04.png"
       },
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://music-presence.github.io/live-test/icons/youtube/tray-menu.ico",
-        "md5": "3c9ad45ca4ad53df9a3bad99b259c70c"
+        "url": "https://music-presence.github.io/live-test/icons/youtube/tray-menu.8ebc398e1de3.ico",
+        "md5": "a6cbf6932248ae4d3ee387d47622ff3e"
       }
     ],
     "youtube-music": [
       {
         "label": "discord-large-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/youtube-music/discord-large-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/youtube-music/discord-large-image.3029b6eb7c2e.png"
       },
       {
         "label": "discord-small-image",
         "type": "png",
-        "url": "https://music-presence.github.io/live-test/icons/youtube-music/discord-small-image.png"
+        "url": "https://music-presence.github.io/live-test/icons/youtube-music/discord-small-image.45be0e6869cb.png"
       },
       {
         "label": "tray-menu",
         "type": "ico",
-        "url": "https://music-presence.github.io/live-test/icons/youtube-music/tray-menu.ico",
-        "md5": "e1bd46fbf9ddc51b6c7402b9f4b7bc42"
+        "url": "https://music-presence.github.io/live-test/icons/youtube-music/tray-menu.29cd00e9fdf3.ico",
+        "md5": "7e8b046fc471a8219ff65e658c63d86e"
       }
     ]
   }
