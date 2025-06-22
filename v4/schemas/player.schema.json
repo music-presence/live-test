@@ -95,59 +95,52 @@
           "$ref": "#/definitions/sourceIdentifier"
         },
         {
-          "allOf": [
-            {
-              "$comment": "Matches a source identifier exactly",
-              "type": "object",
-              "required": [
-                "match"
-              ],
-              "properties": {
-                "match": {
-                  "$ref": "#/definitions/sourceIdentifier"
-                }
-              }
+          "$comment": "Matches a source identifier exactly",
+          "type": "object",
+          "required": [
+            "match"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "match": {
+              "$ref": "#/definitions/sourceIdentifier"
             },
-            {
-              "$ref": "#/definitions/sourceIdentifierMatcherOptions"
+            "insensitive": {
+              "$comment": "Whether to match case-insensitively",
+              "type": "boolean"
             }
-          ]
+          }
         },
         {
-          "allOf": [
-            {
-              "$comment": "Matches only the prefix of a source identifier",
-              "type": "object",
-              "required": [
-                "prefix"
-              ],
-              "properties": {
-                "prefix": {
-                  "$ref": "#/definitions/sourceIdentifier"
-                }
-              }
+          "$comment": "Matches the source identifier against a regular expression",
+          "type": "object",
+          "required": [
+            "regex"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "regex": {
+              "type": "string",
+              "format": "regex",
+              "minLength": 2
             },
-            {
-              "$ref": "#/definitions/sourceIdentifierMatcherOptions"
+            "insensitive": {
+              "$comment": "Whether to match case-insensitively",
+              "type": "boolean"
+            },
+            "partial": {
+              "$comment": "Whether partially matching regular expressions are allowed",
+              "type": "boolean"
             }
-          ]
+          }
         }
       ]
-    },
-    "sourceIdentifierMatcherOptions": {
-      "$comment": "Options for a source identifier matcher",
-      "type": "object",
-      "properties": {
-        "case_insensitive": {
-          "$comment": "Whether to match case-insensitive",
-          "type": "boolean"
-        }
-      }
     },
     "sourceIdentifier": {
       "$comment": "An identifier for a media source, e.g. an application package identifier",
       "type": "string",
-      "pattern": "^\\S.+[^\\s]$"
+      "pattern": "^\\S.+[^\\s]$",
+      "minLength": 2
     },
     "attributes": {
       "$comment": "Attributes for a media player",
@@ -174,7 +167,7 @@
       "uniqueItems": true,
       "minItems": 1,
       "items": {
-        "$ref": "https://music-presence.github.io/live-test/schemas/content-types.schema.json"
+        "$ref": "https://music-presence.github.io/live-test/v4/schemas/content-types.schema.json"
       },
       "allOf": [
         {

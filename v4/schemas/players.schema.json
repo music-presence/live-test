@@ -57,10 +57,10 @@
   },
   "definitions": {
     "player": {
-      "$ref": "https://music-presence.github.io/live-test/schemas/player.schema.json"
+      "$ref": "https://music-presence.github.io/live-test/v4/schemas/player.schema.json"
     },
     "icon": {
-      "$ref": "https://music-presence.github.io/live-test/schemas/icon.schema.json"
+      "$ref": "https://music-presence.github.io/live-test/v4/schemas/icon.schema.json"
     }
   }
 }
