@@ -3310,6 +3310,27 @@
       }
     },
     {
+      "id": "noclune",
+      "name": "noclune",
+      "url": "https://noclune.nocfa.net",
+      "sources": {
+        "win_smtc": [
+          "net.nocfa.noclune"
+        ]
+      },
+      "attributes": {
+        "pure": true,
+        "service": false
+      },
+      "content": [
+        "audio",
+        "audio_music"
+      ],
+      "extra": {
+        "discord_application_id": "1569343479660945469"
+      }
+    },
+    {
       "id": "nora",
       "name": "Nora",
       "url": "https://noramusic.netlify.app",
@@ -8894,6 +8915,29 @@
         "type": "ico",
         "url": "https://music-presence.github.io/live-test/v4/icons/next-player/tray-menu.a8ebb887708f.ico",
         "md5": "a8ebb887708fd7f25ef9cbed86b7a5c0"
+      }
+    ],
+    "noclune": [
+      {
+        "label": "logo-128",
+        "type": "png",
+        "url": "https://music-presence.github.io/live-test/v4/icons/noclune/logo-128.517a4f529542.png"
+      },
+      {
+        "label": "discord-large-image",
+        "type": "png",
+        "url": "https://music-presence.github.io/live-test/v4/icons/noclune/discord-large-image.6856a20dd7a7.png"
+      },
+      {
+        "label": "discord-small-image",
+        "type": "png",
+        "url": "https://music-presence.github.io/live-test/v4/icons/noclune/discord-small-image.a0c0f7fd4f13.png"
+      },
+      {
+        "label": "tray-menu",
+        "type": "ico",
+        "url": "https://music-presence.github.io/live-test/v4/icons/noclune/tray-menu.4f60890c368f.ico",
+        "md5": "4f60890c368fa8827e706bb683d14d02"
       }
     ],
     "nora": [
