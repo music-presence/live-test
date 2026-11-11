@@ -2861,7 +2861,8 @@
       "sources": {
         "win_smtc": [
           "spotube.exe",
-          "Spotube"
+          "Spotube",
+          "com.app.org.spotube.spotube"
         ]
       },
       "attributes": {
