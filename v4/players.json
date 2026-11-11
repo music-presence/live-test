@@ -466,7 +466,8 @@
       "url": "https://music.apple.com",
       "caveats": {
         "windows_smtc_metadata_malformed": "The metadata that is reported via System Media Transport Controls by the native windows app is incorrectly formatted and sometimes includes information that is not song metadata.",
-        "web_playback_info_inaccurate": "The web app tends to report inaccurate playback information and track durations most of the time, especially during longer playback sessions."
+        "web_playback_info_inaccurate": "The web app tends to report inaccurate playback information and track durations most of the time, especially during longer playback sessions.",
+        "test": "just a test"
       },
       "sources": {
         "mac_bundle": [
@@ -475,7 +476,10 @@
         "win_smtc": [
           {
             "app_user_model_id": "AppleMusic.exe",
-            "caveat": "windows_smtc_metadata_malformed"
+            "caveats": [
+              "windows_smtc_metadata_malformed",
+              "test"
+            ]
           },
           {
             "app_user_model_id": "AppleInc.AppleMusicWin_nzyj5cx40ttqa!APP",
