@@ -1661,6 +1661,27 @@
       }
     },
     {
+      "id": "mousiki-placeholder",
+      "name": "Mousiki",
+      "url": "https://github.com/itzender5820/mousiki",
+      "sources": {
+        "web_domain": [
+          "mousiki.example.com"
+        ]
+      },
+      "attributes": {
+        "pure": true,
+        "service": false
+      },
+      "content": [
+        "audio",
+        "audio_music"
+      ],
+      "extra": {
+        "discord_application_id": "1570447658856742964"
+      }
+    },
+    {
       "id": "mpc-hc",
       "name": "MPC-HC",
       "url": "https://github.com/clsid2/mpc-hc",
@@ -2760,6 +2781,27 @@
       }
     },
     {
+      "id": "sony-music-center",
+      "name": "Sony Music Center",
+      "url": "https://www.sony.com/electronics/support/articles/MC4PC020001",
+      "sources": {
+        "win_smtc": [
+          "SonyMusicCenterSMTC.exe"
+        ]
+      },
+      "attributes": {
+        "pure": true,
+        "service": false
+      },
+      "content": [
+        "audio",
+        "audio_music"
+      ],
+      "extra": {
+        "discord_application_id": "1570444616698691654"
+      }
+    },
+    {
       "id": "soundcloud",
       "name": "SoundCloud",
       "url": "https://soundcloud.com",
@@ -3116,7 +3158,8 @@
       "sources": {
         "win_smtc": [
           "[untitled].exe",
-          "electron.app.[untitled]"
+          "electron.app.[untitled]",
+          "webcatalog-photon-untitled"
         ]
       },
       "attributes": {
@@ -6187,6 +6230,29 @@
         "type": "ico",
         "url": "https://music-presence.github.io/live-test/v4/icons/sonosano/tray-menu.3991a664ad78.ico",
         "md5": "3991a664ad784a27c8d6ef31a317d3a8"
+      }
+    ],
+    "sony-music-center": [
+      {
+        "label": "logo-128",
+        "type": "png",
+        "url": "https://music-presence.github.io/live-test/v4/icons/sony-music-center/logo-128.dfbbfe6a2240.png"
+      },
+      {
+        "label": "discord-large-image",
+        "type": "png",
+        "url": "https://music-presence.github.io/live-test/v4/icons/sony-music-center/discord-large-image.0223e6f22c06.png"
+      },
+      {
+        "label": "discord-small-image",
+        "type": "png",
+        "url": "https://music-presence.github.io/live-test/v4/icons/sony-music-center/discord-small-image.7e95aaee2277.png"
+      },
+      {
+        "label": "tray-menu",
+        "type": "ico",
+        "url": "https://music-presence.github.io/live-test/v4/icons/sony-music-center/tray-menu.baa2b2732894.ico",
+        "md5": "baa2b2732894d68b5fc356115a5e5ebe"
       }
     ],
     "soundcloud": [

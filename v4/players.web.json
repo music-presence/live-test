@@ -430,6 +430,27 @@
       }
     },
     {
+      "id": "mousiki-placeholder",
+      "name": "Mousiki",
+      "url": "https://github.com/itzender5820/mousiki",
+      "sources": {
+        "web_domain": [
+          "mousiki.example.com"
+        ]
+      },
+      "attributes": {
+        "pure": true,
+        "service": false
+      },
+      "content": [
+        "audio",
+        "audio_music"
+      ],
+      "extra": {
+        "discord_application_id": "1570447658856742964"
+      }
+    },
+    {
       "id": "netease-cloud-music",
       "name": "NetEase Cloud Music",
       "url": "https://music.163.com",

@@ -1219,6 +1219,54 @@
       }
     },
     {
+      "id": "mousiki-placeholder",
+      "name": "Mousiki",
+      "url": "https://github.com/itzender5820/mousiki",
+      "sources": {
+        "web_domain": [
+          "mousiki.example.com"
+        ]
+      },
+      "attributes": {
+        "pure": true,
+        "service": false
+      },
+      "content": [
+        "audio",
+        "audio_music"
+      ],
+      "extra": {
+        "discord_application_id": "1570447658856742964"
+      }
+    },
+    {
+      "id": "mousiki-plus",
+      "name": "Mousiki Plus",
+      "url": "https://github.com/StSchwerdtfeger/mousiki-plus",
+      "represents": [
+        "mousiki-placeholder"
+      ],
+      "sources": {
+        "lin_mpris": [
+          {
+            "service": "mousiki",
+            "identity": "Mousiki Plus"
+          }
+        ]
+      },
+      "attributes": {
+        "pure": true,
+        "service": false
+      },
+      "content": [
+        "audio",
+        "audio_music"
+      ],
+      "extra": {
+        "discord_application_id": "1570447741262504118"
+      }
+    },
+    {
       "id": "mpd",
       "name": "MPD",
       "url": "https://www.musicpd.org",
@@ -2463,27 +2511,6 @@
       ],
       "extra": {
         "discord_application_id": "1439302515186335996"
-      }
-    },
-    {
-      "id": "valent",
-      "name": "Valent",
-      "url": "https://valent.andyholmes.ca",
-      "sources": {
-        "lin_mpris": [
-          "Valent"
-        ]
-      },
-      "attributes": {
-        "pure": false,
-        "service": false
-      },
-      "content": [
-        "video",
-        "audio"
-      ],
-      "extra": {
-        "discord_application_id": "1446204568198316052"
       }
     },
     {
@@ -5031,29 +5058,6 @@
         "type": "ico",
         "url": "https://music-presence.github.io/live-test/v4/icons/vacuumtube/tray-menu.b0842153bb89.ico",
         "md5": "b0842153bb89766c14881da44eaecfd6"
-      }
-    ],
-    "valent": [
-      {
-        "label": "logo-128",
-        "type": "png",
-        "url": "https://music-presence.github.io/live-test/v4/icons/valent/logo-128.8f96f9616934.png"
-      },
-      {
-        "label": "discord-large-image",
-        "type": "png",
-        "url": "https://music-presence.github.io/live-test/v4/icons/valent/discord-large-image.201e6629da88.png"
-      },
-      {
-        "label": "discord-small-image",
-        "type": "png",
-        "url": "https://music-presence.github.io/live-test/v4/icons/valent/discord-small-image.a70170528930.png"
-      },
-      {
-        "label": "tray-menu",
-        "type": "ico",
-        "url": "https://music-presence.github.io/live-test/v4/icons/valent/tray-menu.1506dc12771e.ico",
-        "md5": "1506dc12771ec6d1dc64fb4e6be7304e"
       }
     ],
     "vlc": [
