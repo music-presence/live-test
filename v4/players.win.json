@@ -559,6 +559,30 @@
       }
     },
     {
+      "id": "bitchord",
+      "name": "BitChord",
+      "url": "https://github.com/jackychan4891/BitChord-PC-Continued",
+      "represents": [
+        "youtube-music"
+      ],
+      "sources": {
+        "win_smtc": [
+          "bitchord.exe"
+        ]
+      },
+      "attributes": {
+        "pure": true,
+        "service": false
+      },
+      "content": [
+        "audio",
+        "audio_music"
+      ],
+      "extra": {
+        "discord_application_id": "1571189838558920804"
+      }
+    },
+    {
       "id": "bloomee",
       "name": "Bloomee",
       "url": "https://github.com/HemantKArya/BloomeeTunes",
@@ -1431,7 +1455,8 @@
       ],
       "sources": {
         "win_smtc": [
-          "com.limusic.desktop"
+          "com.limusic.desktop",
+          "limusic-app.exe"
         ]
       },
       "attributes": {
@@ -1779,7 +1804,8 @@
           "MusicBee.exe",
           "50072StevenMayall.MusicBee_kcr266et74avj!musicbeepackage",
           "50072StevenMayall.MusicBee_kcr266et74avj!MusicBeePackage",
-          "50072StevenMayall.MusicBee_kcr266et74avj!MUSICBEEPACKAGE"
+          "50072StevenMayall.MusicBee_kcr266et74avj!MUSICBEEPACKAGE",
+          "HALRAD.MBXHub.MusicBee"
         ]
       },
       "attributes": {
@@ -4092,6 +4118,29 @@
         "type": "ico",
         "url": "https://music-presence.github.io/live-test/v4/icons/betterlyrics/tray-menu.468c5cfe22fc.ico",
         "md5": "468c5cfe22fc82bb7c5b4d170e82fa98"
+      }
+    ],
+    "bitchord": [
+      {
+        "label": "logo-128",
+        "type": "png",
+        "url": "https://music-presence.github.io/live-test/v4/icons/bitchord/logo-128.09eb1261f65b.png"
+      },
+      {
+        "label": "discord-large-image",
+        "type": "png",
+        "url": "https://music-presence.github.io/live-test/v4/icons/bitchord/discord-large-image.ff2f9fe13b34.png"
+      },
+      {
+        "label": "discord-small-image",
+        "type": "png",
+        "url": "https://music-presence.github.io/live-test/v4/icons/bitchord/discord-small-image.4aca44907a3d.png"
+      },
+      {
+        "label": "tray-menu",
+        "type": "ico",
+        "url": "https://music-presence.github.io/live-test/v4/icons/bitchord/tray-menu.3c5a05bcfc95.ico",
+        "md5": "3c5a05bcfc950dcd5f9c0791645dac12"
       }
     ],
     "bloomee": [

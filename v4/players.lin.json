@@ -1219,6 +1219,27 @@
       }
     },
     {
+      "id": "mornye",
+      "name": "Mornye",
+      "url": "https://desktop.mornye.com",
+      "sources": {
+        "lin_mpris": [
+          "mornye"
+        ]
+      },
+      "attributes": {
+        "pure": true,
+        "service": false
+      },
+      "content": [
+        "audio",
+        "audio_music"
+      ],
+      "extra": {
+        "discord_application_id": "1568179498795401277"
+      }
+    },
+    {
       "id": "mousiki-placeholder",
       "name": "Mousiki",
       "url": "https://github.com/itzender5820/mousiki",
@@ -3862,6 +3883,29 @@
         "type": "ico",
         "url": "https://music-presence.github.io/live-test/v4/icons/monochrome/tray-menu.d39b2a2b4ec8.ico",
         "md5": "d39b2a2b4ec80c6d48509cb9e3bce460"
+      }
+    ],
+    "mornye": [
+      {
+        "label": "logo-128",
+        "type": "png",
+        "url": "https://music-presence.github.io/live-test/v4/icons/mornye/logo-128.b1295272032b.png"
+      },
+      {
+        "label": "discord-large-image",
+        "type": "png",
+        "url": "https://music-presence.github.io/live-test/v4/icons/mornye/discord-large-image.c0ab38da24f7.png"
+      },
+      {
+        "label": "discord-small-image",
+        "type": "png",
+        "url": "https://music-presence.github.io/live-test/v4/icons/mornye/discord-small-image.75280ed1c7c0.png"
+      },
+      {
+        "label": "tray-menu",
+        "type": "ico",
+        "url": "https://music-presence.github.io/live-test/v4/icons/mornye/tray-menu.1df98bca06c1.ico",
+        "md5": "1df98bca06c1d6b800a0414eb4c43943"
       }
     ],
     "mpd": [
