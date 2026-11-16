@@ -700,6 +700,27 @@
       }
     },
     {
+      "id": "eclipse",
+      "name": "Eclipse",
+      "url": "https://eclipsemusic.app",
+      "sources": {
+        "mac_bundle": [
+          "com.debridmusic.app"
+        ]
+      },
+      "attributes": {
+        "pure": true,
+        "service": false
+      },
+      "content": [
+        "audio",
+        "audio_music"
+      ],
+      "extra": {
+        "discord_application_id": "1514537002568253543"
+      }
+    },
+    {
       "id": "eter",
       "name": "Eter",
       "url": "https://eter.apparentsoft.com",
@@ -3244,6 +3265,29 @@
         "type": "ico",
         "url": "https://music-presence.github.io/live-test/v4/icons/doppler/tray-menu.75846177b1d5.ico",
         "md5": "75846177b1d573580f56ffb242736c6f"
+      }
+    ],
+    "eclipse": [
+      {
+        "label": "logo-128",
+        "type": "png",
+        "url": "https://music-presence.github.io/live-test/v4/icons/eclipse/logo-128.4e4977e5bac4.png"
+      },
+      {
+        "label": "discord-large-image",
+        "type": "png",
+        "url": "https://music-presence.github.io/live-test/v4/icons/eclipse/discord-large-image.d1450e8d04df.png"
+      },
+      {
+        "label": "discord-small-image",
+        "type": "png",
+        "url": "https://music-presence.github.io/live-test/v4/icons/eclipse/discord-small-image.8ef5686b19c2.png"
+      },
+      {
+        "label": "tray-menu",
+        "type": "ico",
+        "url": "https://music-presence.github.io/live-test/v4/icons/eclipse/tray-menu.6674f07fb2b6.ico",
+        "md5": "6674f07fb2b6b9c9b276c1cb8fb480f5"
       }
     ],
     "eter": [
