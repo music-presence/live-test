@@ -690,6 +690,27 @@
       }
     },
     {
+      "id": "clementine",
+      "name": "Clementine",
+      "url": "https://www.clementine-player.org",
+      "sources": {
+        "win_smtc": [
+          "clementine.exe"
+        ]
+      },
+      "attributes": {
+        "pure": true,
+        "service": false
+      },
+      "content": [
+        "audio",
+        "audio_music"
+      ],
+      "extra": {
+        "discord_application_id": "1311739842790686740"
+      }
+    },
+    {
       "id": "deezer",
       "name": "Deezer",
       "url": "https://deezer.com",
@@ -4234,6 +4255,29 @@
         "type": "ico",
         "url": "https://music-presence.github.io/live-test/v4/icons/cider/tray-menu.9ebdc1d28152.ico",
         "md5": "9ebdc1d2815243084657e4a6e52bebfb"
+      }
+    ],
+    "clementine": [
+      {
+        "label": "logo-128",
+        "type": "png",
+        "url": "https://music-presence.github.io/live-test/v4/icons/clementine/logo-128.16764583568e.png"
+      },
+      {
+        "label": "discord-large-image",
+        "type": "png",
+        "url": "https://music-presence.github.io/live-test/v4/icons/clementine/discord-large-image.8ae68dc20cf8.png"
+      },
+      {
+        "label": "discord-small-image",
+        "type": "png",
+        "url": "https://music-presence.github.io/live-test/v4/icons/clementine/discord-small-image.725f15f43291.png"
+      },
+      {
+        "label": "tray-menu",
+        "type": "ico",
+        "url": "https://music-presence.github.io/live-test/v4/icons/clementine/tray-menu.c5a6033e746b.ico",
+        "md5": "c5a6033e746b31fda358c6c62952a21a"
       }
     ],
     "deezer": [
