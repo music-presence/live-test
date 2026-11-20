@@ -2477,6 +2477,27 @@
       }
     },
     {
+      "id": "telegram",
+      "name": "Telegram",
+      "url": "https://telegram.org",
+      "sources": {
+        "lin_mpris": [
+          "org.telegram.desktop"
+        ]
+      },
+      "attributes": {
+        "pure": false,
+        "service": false
+      },
+      "content": [
+        "video",
+        "audio"
+      ],
+      "extra": {
+        "discord_application_id": "1465728253959602176"
+      }
+    },
+    {
       "id": "tidal",
       "name": "TIDAL",
       "url": "https://tidal.com",
@@ -5101,6 +5122,29 @@
         "type": "ico",
         "url": "https://music-presence.github.io/live-test/v4/icons/tauon/tray-menu.e64ce9917bb1.ico",
         "md5": "e64ce9917bb19db90e2d8777546c2f7b"
+      }
+    ],
+    "telegram": [
+      {
+        "label": "logo-128",
+        "type": "png",
+        "url": "https://music-presence.github.io/live-test/v4/icons/telegram/logo-128.ddb330058b0d.png"
+      },
+      {
+        "label": "discord-large-image",
+        "type": "png",
+        "url": "https://music-presence.github.io/live-test/v4/icons/telegram/discord-large-image.7ea5a8da33df.png"
+      },
+      {
+        "label": "discord-small-image",
+        "type": "png",
+        "url": "https://music-presence.github.io/live-test/v4/icons/telegram/discord-small-image.609ac56e9493.png"
+      },
+      {
+        "label": "tray-menu",
+        "type": "ico",
+        "url": "https://music-presence.github.io/live-test/v4/icons/telegram/tray-menu.d65282bf9a46.ico",
+        "md5": "d65282bf9a46d94a7b0767877fcb992b"
       }
     ],
     "tidal": [
