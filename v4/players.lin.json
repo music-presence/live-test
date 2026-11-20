@@ -1288,6 +1288,27 @@
       }
     },
     {
+      "id": "mpc-qt",
+      "name": "MPC-QT",
+      "url": "https://github.com/mpc-qt/mpc-qt",
+      "sources": {
+        "lin_mpris": [
+          "MpcQt"
+        ]
+      },
+      "attributes": {
+        "pure": false,
+        "service": false
+      },
+      "content": [
+        "video",
+        "audio"
+      ],
+      "extra": {
+        "discord_application_id": "1573396689606287582"
+      }
+    },
+    {
       "id": "mpd",
       "name": "MPD",
       "url": "https://www.musicpd.org",
@@ -2309,6 +2330,30 @@
       "extra": {
         "discord_application_id": "1285553804518887508",
         "fluxer_emoji_id": "1549773135857844224"
+      }
+    },
+    {
+      "id": "spotifast",
+      "name": "Spotifast",
+      "url": "https://spotifast.rocks",
+      "represents": [
+        "spotify"
+      ],
+      "sources": {
+        "lin_mpris": [
+          "spotifast"
+        ]
+      },
+      "attributes": {
+        "pure": true,
+        "service": false
+      },
+      "content": [
+        "audio",
+        "audio_music"
+      ],
+      "extra": {
+        "discord_application_id": "1550781688362172517"
       }
     },
     {
@@ -3908,6 +3953,29 @@
         "md5": "1df98bca06c1d6b800a0414eb4c43943"
       }
     ],
+    "mpc-qt": [
+      {
+        "label": "logo-128",
+        "type": "png",
+        "url": "https://music-presence.github.io/live-test/v4/icons/mpc-qt/logo-128.9ef6552398a8.png"
+      },
+      {
+        "label": "discord-large-image",
+        "type": "png",
+        "url": "https://music-presence.github.io/live-test/v4/icons/mpc-qt/discord-large-image.3a56496f4921.png"
+      },
+      {
+        "label": "discord-small-image",
+        "type": "png",
+        "url": "https://music-presence.github.io/live-test/v4/icons/mpc-qt/discord-small-image.95b6b96adb8e.png"
+      },
+      {
+        "label": "tray-menu",
+        "type": "ico",
+        "url": "https://music-presence.github.io/live-test/v4/icons/mpc-qt/tray-menu.0a221ac35c60.ico",
+        "md5": "0a221ac35c604f870e292da0e8764cea"
+      }
+    ],
     "mpd": [
       {
         "label": "logo-128",
@@ -4895,6 +4963,29 @@
         "type": "ico",
         "url": "https://music-presence.github.io/live-test/v4/icons/soundcloud/tray-menu.a99d68c92a2a.ico",
         "md5": "a99d68c92a2a0f8654ebb96221ccb68b"
+      }
+    ],
+    "spotifast": [
+      {
+        "label": "logo-128",
+        "type": "png",
+        "url": "https://music-presence.github.io/live-test/v4/icons/spotifast/logo-128.4a1993fe4f6a.png"
+      },
+      {
+        "label": "discord-large-image",
+        "type": "png",
+        "url": "https://music-presence.github.io/live-test/v4/icons/spotifast/discord-large-image.89e7109b73c1.png"
+      },
+      {
+        "label": "discord-small-image",
+        "type": "png",
+        "url": "https://music-presence.github.io/live-test/v4/icons/spotifast/discord-small-image.c041b9d8f10c.png"
+      },
+      {
+        "label": "tray-menu",
+        "type": "ico",
+        "url": "https://music-presence.github.io/live-test/v4/icons/spotifast/tray-menu.017545362190.ico",
+        "md5": "0175453621907f99f621c1377ddaf193"
       }
     ],
     "spotify": [
