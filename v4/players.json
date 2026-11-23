@@ -5013,16 +5013,13 @@
           "Spotify Desktop.exe",
           "SpotifyAB.SpotifyMusic_zpdnekdrzrea0!spotify",
           "SpotifyAB.SpotifyMusic_zpdnekdrzrea0!Spotify",
-          "SpotifyAB.SpotifyMusic_zpdnekdrzrea0!SPOTIFY",
-          "Spotishka Desktop.exe"
+          "SpotifyAB.SpotifyMusic_zpdnekdrzrea0!SPOTIFY"
         ],
         "mac_bundle": [
           "com.spotify.client"
         ],
         "lin_mpris": [
           "spotify",
-          "spotify_player",
-          "spotifyd",
           {
             "service": "Valent",
             "identity": "Spotify"
@@ -5044,6 +5041,78 @@
       "extra": {
         "discord_application_id": "1247651846936596540",
         "fluxer_emoji_id": "1549773084154658816"
+      }
+    },
+    {
+      "id": "spotify-player",
+      "name": "spotify_player",
+      "url": "https://github.com/aome510/spotify-player",
+      "represents": [
+        "spotify"
+      ],
+      "sources": {
+        "lin_mpris": [
+          "spotify_player"
+        ]
+      },
+      "attributes": {
+        "pure": true,
+        "service": false
+      },
+      "content": [
+        "audio",
+        "audio_music"
+      ],
+      "extra": {
+        "discord_application_id": "1574342402905342093"
+      }
+    },
+    {
+      "id": "spotifyd",
+      "name": "spotifyd",
+      "url": "https://github.com/Spotifyd/spotifyd",
+      "represents": [
+        "spotify"
+      ],
+      "sources": {
+        "lin_mpris": [
+          "spotifyd"
+        ]
+      },
+      "attributes": {
+        "pure": true,
+        "service": false
+      },
+      "content": [
+        "audio",
+        "audio_music"
+      ],
+      "extra": {
+        "discord_application_id": "1574389966937530501"
+      }
+    },
+    {
+      "id": "spotishka",
+      "name": "Spotishka",
+      "url": "https://spotishka.com",
+      "represents": [
+        "spotify"
+      ],
+      "sources": {
+        "win_smtc": [
+          "Spotishka Desktop.exe"
+        ]
+      },
+      "attributes": {
+        "pure": true,
+        "service": false
+      },
+      "content": [
+        "audio",
+        "audio_music"
+      ],
+      "extra": {
+        "discord_application_id": "1574340725397790950"
       }
     },
     {
@@ -10601,6 +10670,75 @@
         "label": "tray-menu",
         "type": "ico",
         "url": "https://music-presence.github.io/live-test/v4/icons/spotify/tray-menu.db3a25b10eeb.ico",
+        "md5": "db3a25b10eeb3c8eb8e17a38c215ef06"
+      }
+    ],
+    "spotify-player": [
+      {
+        "label": "logo-128",
+        "type": "png",
+        "url": "https://music-presence.github.io/live-test/v4/icons/spotify-player/logo-128.3f356a4d2aa3.png"
+      },
+      {
+        "label": "discord-large-image",
+        "type": "png",
+        "url": "https://music-presence.github.io/live-test/v4/icons/spotify-player/discord-large-image.c4bd750c5832.png"
+      },
+      {
+        "label": "discord-small-image",
+        "type": "png",
+        "url": "https://music-presence.github.io/live-test/v4/icons/spotify-player/discord-small-image.479c9cfbeb46.png"
+      },
+      {
+        "label": "tray-menu",
+        "type": "ico",
+        "url": "https://music-presence.github.io/live-test/v4/icons/spotify-player/tray-menu.db3a25b10eeb.ico",
+        "md5": "db3a25b10eeb3c8eb8e17a38c215ef06"
+      }
+    ],
+    "spotifyd": [
+      {
+        "label": "logo-128",
+        "type": "png",
+        "url": "https://music-presence.github.io/live-test/v4/icons/spotifyd/logo-128.3f356a4d2aa3.png"
+      },
+      {
+        "label": "discord-large-image",
+        "type": "png",
+        "url": "https://music-presence.github.io/live-test/v4/icons/spotifyd/discord-large-image.c4bd750c5832.png"
+      },
+      {
+        "label": "discord-small-image",
+        "type": "png",
+        "url": "https://music-presence.github.io/live-test/v4/icons/spotifyd/discord-small-image.479c9cfbeb46.png"
+      },
+      {
+        "label": "tray-menu",
+        "type": "ico",
+        "url": "https://music-presence.github.io/live-test/v4/icons/spotifyd/tray-menu.db3a25b10eeb.ico",
+        "md5": "db3a25b10eeb3c8eb8e17a38c215ef06"
+      }
+    ],
+    "spotishka": [
+      {
+        "label": "logo-128",
+        "type": "png",
+        "url": "https://music-presence.github.io/live-test/v4/icons/spotishka/logo-128.3f356a4d2aa3.png"
+      },
+      {
+        "label": "discord-large-image",
+        "type": "png",
+        "url": "https://music-presence.github.io/live-test/v4/icons/spotishka/discord-large-image.c4bd750c5832.png"
+      },
+      {
+        "label": "discord-small-image",
+        "type": "png",
+        "url": "https://music-presence.github.io/live-test/v4/icons/spotishka/discord-small-image.479c9cfbeb46.png"
+      },
+      {
+        "label": "tray-menu",
+        "type": "ico",
+        "url": "https://music-presence.github.io/live-test/v4/icons/spotishka/tray-menu.db3a25b10eeb.ico",
         "md5": "db3a25b10eeb3c8eb8e17a38c215ef06"
       }
     ],
