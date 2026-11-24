@@ -328,7 +328,7 @@
       "name": "Apple Music",
       "url": "https://music.apple.com",
       "caveats": {
-        "windows_smtc_metadata_malformed": "The metadata that is reported via System Media Transport Controls by the native windows app is incorrectly formatted and sometimes includes information that is not song metadata.",
+        "windows_smtc_metadata_malformed": "The metadata that is reported by the native windows app is incorrectly formatted and sometimes includes information that is not song metadata.",
         "web_playback_info_inaccurate": "The web app tends to report inaccurate playback information and track durations most of the time, especially during longer playback sessions."
       },
       "sources": {
@@ -507,6 +507,27 @@
       ],
       "extra": {
         "discord_application_id": "1521215344663072973"
+      }
+    },
+    {
+      "id": "aurora",
+      "name": "Aurora",
+      "url": "https://auroraplayer.lol",
+      "sources": {
+        "win_smtc": [
+          "com.aurora.music"
+        ]
+      },
+      "attributes": {
+        "pure": true,
+        "service": false
+      },
+      "content": [
+        "audio",
+        "audio_music"
+      ],
+      "extra": {
+        "discord_application_id": "1574737225797869670"
       }
     },
     {
@@ -4166,6 +4187,29 @@
         "type": "ico",
         "url": "https://music-presence.github.io/live-test/v4/icons/audion/tray-menu.f2a925cd9db3.ico",
         "md5": "f2a925cd9db336403eaa07ae9f01eeba"
+      }
+    ],
+    "aurora": [
+      {
+        "label": "logo-128",
+        "type": "png",
+        "url": "https://music-presence.github.io/live-test/v4/icons/aurora/logo-128.ab1df6f0a0c0.png"
+      },
+      {
+        "label": "discord-large-image",
+        "type": "png",
+        "url": "https://music-presence.github.io/live-test/v4/icons/aurora/discord-large-image.ae46afc2ac5d.png"
+      },
+      {
+        "label": "discord-small-image",
+        "type": "png",
+        "url": "https://music-presence.github.io/live-test/v4/icons/aurora/discord-small-image.5b07473f7fbf.png"
+      },
+      {
+        "label": "tray-menu",
+        "type": "ico",
+        "url": "https://music-presence.github.io/live-test/v4/icons/aurora/tray-menu.b0a7020aed23.ico",
+        "md5": "b0a7020aed236286f18856c5a86c1ff1"
       }
     ],
     "bandcamp": [
