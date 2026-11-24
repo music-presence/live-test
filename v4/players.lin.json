@@ -2361,13 +2361,19 @@
       "name": "Spotify",
       "url": "https://spotify.com",
       "caveats": [
-        "desktop_app_advertisements_unskippable"
+        "advertisements_previous_and_next_controls_disabled",
+        "advertisements_distinct_spotify_url",
+        "advertisements_distinct_metadata"
       ],
       "sources": {
         "lin_mpris": [
           {
             "service": "spotify",
-            "caveat": "desktop_app_advertisements_unskippable"
+            "caveats": [
+              "advertisements_previous_and_next_controls_disabled",
+              "advertisements_distinct_spotify_url",
+              "advertisements_distinct_metadata"
+            ]
           },
           {
             "service": "Valent",
@@ -2375,7 +2381,10 @@
           }
         ],
         "web_domain": [
-          "open.spotify.com"
+          {
+            "domain": "open.spotify.com",
+            "caveat": "advertisements_distinct_metadata"
+          }
         ]
       },
       "attributes": {

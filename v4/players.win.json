@@ -2986,33 +2986,38 @@
       "name": "Spotify",
       "url": "https://spotify.com",
       "caveats": [
-        "desktop_app_advertisements_unskippable"
+        "advertisements_previous_and_next_controls_disabled",
+        "advertisements_distinct_spotify_url",
+        "advertisements_distinct_metadata"
       ],
       "sources": {
         "win_smtc": [
           {
             "app_user_model_id": "Spotify.exe",
-            "caveat": "desktop_app_advertisements_unskippable"
+            "caveat": "advertisements_previous_and_next_controls_disabled"
           },
           {
             "app_user_model_id": "Spotify Desktop.exe",
-            "caveat": "desktop_app_advertisements_unskippable"
+            "caveat": "advertisements_previous_and_next_controls_disabled"
           },
           {
             "app_user_model_id": "SpotifyAB.SpotifyMusic_zpdnekdrzrea0!spotify",
-            "caveat": "desktop_app_advertisements_unskippable"
+            "caveat": "advertisements_previous_and_next_controls_disabled"
           },
           {
             "app_user_model_id": "SpotifyAB.SpotifyMusic_zpdnekdrzrea0!Spotify",
-            "caveat": "desktop_app_advertisements_unskippable"
+            "caveat": "advertisements_previous_and_next_controls_disabled"
           },
           {
             "app_user_model_id": "SpotifyAB.SpotifyMusic_zpdnekdrzrea0!SPOTIFY",
-            "caveat": "desktop_app_advertisements_unskippable"
+            "caveat": "advertisements_previous_and_next_controls_disabled"
           }
         ],
         "web_domain": [
-          "open.spotify.com"
+          {
+            "domain": "open.spotify.com",
+            "caveat": "advertisements_distinct_metadata"
+          }
         ]
       },
       "attributes": {
