@@ -464,10 +464,10 @@
       "id": "apple-music",
       "name": "Apple Music",
       "url": "https://music.apple.com",
-      "caveats": {
-        "windows_smtc_metadata_malformed": "The metadata that is reported by the native windows app is incorrectly formatted and sometimes includes information that is not song metadata.",
-        "web_playback_info_inaccurate": "The web app tends to report inaccurate playback information and track durations most of the time, especially during longer playback sessions."
-      },
+      "caveats": [
+        "windows_app_smtc_metadata_malformed",
+        "web_app_playback_info_inaccurate"
+      ],
       "sources": {
         "mac_bundle": [
           "com.apple.Music"
@@ -475,58 +475,58 @@
         "win_smtc": [
           {
             "app_user_model_id": "AppleMusic.exe",
-            "caveat": "windows_smtc_metadata_malformed"
+            "caveat": "windows_app_smtc_metadata_malformed"
           },
           {
             "app_user_model_id": "AppleInc.AppleMusicWin_nzyj5cx40ttqa!APP",
-            "caveat": "windows_smtc_metadata_malformed"
+            "caveat": "windows_app_smtc_metadata_malformed"
           },
           {
             "app_user_model_id": "AppleInc.AppleMusicWin_nzyj5cx40ttqa!App",
-            "caveat": "windows_smtc_metadata_malformed"
+            "caveat": "windows_app_smtc_metadata_malformed"
           },
           {
             "app_user_model_id": "AppleInc.AppleMusicWin_nzyj5cx40ttqa!app",
-            "caveat": "windows_smtc_metadata_malformed"
+            "caveat": "windows_app_smtc_metadata_malformed"
           },
           {
             "app_user_model_id": "Apple Music Beta.exe",
             "product_name": "Electron",
-            "caveat": "web_playback_info_inaccurate"
+            "caveat": "web_app_playback_info_inaccurate"
           },
           {
             "app_user_model_id": "webcatalog-photon-apple-music-beta",
-            "caveat": "web_playback_info_inaccurate"
+            "caveat": "web_app_playback_info_inaccurate"
           },
           {
             "app_user_model_id": "electron.app.Apple Music Beta",
-            "caveat": "web_playback_info_inaccurate"
+            "caveat": "web_app_playback_info_inaccurate"
           },
           {
             "app_user_model_id": "music.apple.com-A5F611C_7vh1tm7h3g5s0!APP",
-            "caveat": "web_playback_info_inaccurate"
+            "caveat": "web_app_playback_info_inaccurate"
           },
           {
             "app_user_model_id": "music.apple.com-A5F611C_7vh1tm7h3g5s0!App",
-            "caveat": "web_playback_info_inaccurate"
+            "caveat": "web_app_playback_info_inaccurate"
           },
           {
             "app_user_model_id": "music.apple.com-A5F611C_7vh1tm7h3g5s0!app",
-            "caveat": "web_playback_info_inaccurate"
+            "caveat": "web_app_playback_info_inaccurate"
           }
         ],
         "web_domain": [
           {
             "domain": "music.apple.com",
-            "caveat": "web_playback_info_inaccurate"
+            "caveat": "web_app_playback_info_inaccurate"
           },
           {
             "domain": "classical.music.apple.com",
-            "caveat": "web_playback_info_inaccurate"
+            "caveat": "web_app_playback_info_inaccurate"
           },
           {
             "domain": "beta.music.apple.com",
-            "caveat": "web_playback_info_inaccurate"
+            "caveat": "web_app_playback_info_inaccurate"
           }
         ]
       },
@@ -5028,19 +5028,43 @@
       "id": "spotify",
       "name": "Spotify",
       "url": "https://spotify.com",
+      "caveats": [
+        "desktop_app_advertisements_unskippable"
+      ],
       "sources": {
         "win_smtc": [
-          "Spotify.exe",
-          "Spotify Desktop.exe",
-          "SpotifyAB.SpotifyMusic_zpdnekdrzrea0!spotify",
-          "SpotifyAB.SpotifyMusic_zpdnekdrzrea0!Spotify",
-          "SpotifyAB.SpotifyMusic_zpdnekdrzrea0!SPOTIFY"
+          {
+            "app_user_model_id": "Spotify.exe",
+            "caveat": "desktop_app_advertisements_unskippable"
+          },
+          {
+            "app_user_model_id": "Spotify Desktop.exe",
+            "caveat": "desktop_app_advertisements_unskippable"
+          },
+          {
+            "app_user_model_id": "SpotifyAB.SpotifyMusic_zpdnekdrzrea0!spotify",
+            "caveat": "desktop_app_advertisements_unskippable"
+          },
+          {
+            "app_user_model_id": "SpotifyAB.SpotifyMusic_zpdnekdrzrea0!Spotify",
+            "caveat": "desktop_app_advertisements_unskippable"
+          },
+          {
+            "app_user_model_id": "SpotifyAB.SpotifyMusic_zpdnekdrzrea0!SPOTIFY",
+            "caveat": "desktop_app_advertisements_unskippable"
+          }
         ],
         "mac_bundle": [
-          "com.spotify.client"
+          {
+            "bundle_id": "com.spotify.client",
+            "caveat": "desktop_app_advertisements_unskippable"
+          }
         ],
         "lin_mpris": [
-          "spotify",
+          {
+            "service": "spotify",
+            "caveat": "desktop_app_advertisements_unskippable"
+          },
           {
             "service": "Valent",
             "identity": "Spotify"
