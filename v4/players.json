@@ -5069,6 +5069,18 @@
               "advertisements_previous_and_next_controls_disabled",
               "advertisements_distinct_metadata"
             ]
+          },
+          {
+            "app_user_model_id": "open.spotify.com-D55111A4_nwqr74yvdh6rj!app",
+            "caveat": "advertisements_distinct_metadata"
+          },
+          {
+            "app_user_model_id": "open.spotify.com-D55111A4_nwqr74yvdh6rj!App",
+            "caveat": "advertisements_distinct_metadata"
+          },
+          {
+            "app_user_model_id": "open.spotify.com-D55111A4_nwqr74yvdh6rj!APP",
+            "caveat": "advertisements_distinct_metadata"
           }
         ],
         "mac_bundle": [
