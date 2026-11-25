@@ -328,26 +328,26 @@
       "name": "Apple Music",
       "url": "https://music.apple.com",
       "caveats": [
-        "windows_app_smtc_metadata_malformed",
+        "windows_app_metadata_malformed",
         "web_app_playback_info_inaccurate"
       ],
       "sources": {
         "win_smtc": [
           {
             "app_user_model_id": "AppleMusic.exe",
-            "caveat": "windows_app_smtc_metadata_malformed"
+            "caveat": "windows_app_metadata_malformed"
           },
           {
             "app_user_model_id": "AppleInc.AppleMusicWin_nzyj5cx40ttqa!APP",
-            "caveat": "windows_app_smtc_metadata_malformed"
+            "caveat": "windows_app_metadata_malformed"
           },
           {
             "app_user_model_id": "AppleInc.AppleMusicWin_nzyj5cx40ttqa!App",
-            "caveat": "windows_app_smtc_metadata_malformed"
+            "caveat": "windows_app_metadata_malformed"
           },
           {
             "app_user_model_id": "AppleInc.AppleMusicWin_nzyj5cx40ttqa!app",
-            "caveat": "windows_app_smtc_metadata_malformed"
+            "caveat": "windows_app_metadata_malformed"
           },
           {
             "app_user_model_id": "Apple Music Beta.exe",

@@ -138,7 +138,7 @@
       "name": "Apple Music",
       "url": "https://music.apple.com",
       "caveats": [
-        "windows_app_smtc_metadata_malformed",
+        "windows_app_metadata_malformed",
         "web_app_playback_info_inaccurate"
       ],
       "sources": {
