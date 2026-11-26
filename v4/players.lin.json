@@ -1178,6 +1178,7 @@
       ],
       "sources": {
         "lin_mpris": [
+          "metrolist",
           {
             "service": "Valent",
             "identity": "Metrolist"
