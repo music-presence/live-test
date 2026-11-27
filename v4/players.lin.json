@@ -303,6 +303,27 @@
       }
     },
     {
+      "id": "aurora",
+      "name": "Aurora",
+      "url": "https://auroraplayer.lol",
+      "sources": {
+        "lin_mpris": [
+          "aurora"
+        ]
+      },
+      "attributes": {
+        "pure": true,
+        "service": false
+      },
+      "content": [
+        "audio",
+        "audio_music"
+      ],
+      "extra": {
+        "discord_application_id": "1574737225797869670"
+      }
+    },
+    {
       "id": "bandcamp",
       "name": "Bandcamp",
       "url": "https://bandcamp.com",
@@ -3137,6 +3158,29 @@
         "type": "ico",
         "url": "https://music-presence.github.io/live-test/v4/icons/audacious/tray-menu.e52ee74802bd.ico",
         "md5": "e52ee74802bde857a2fbc51534087b2a"
+      }
+    ],
+    "aurora": [
+      {
+        "label": "logo-128",
+        "type": "png",
+        "url": "https://music-presence.github.io/live-test/v4/icons/aurora/logo-128.ab1df6f0a0c0.png"
+      },
+      {
+        "label": "discord-large-image",
+        "type": "png",
+        "url": "https://music-presence.github.io/live-test/v4/icons/aurora/discord-large-image.ae46afc2ac5d.png"
+      },
+      {
+        "label": "discord-small-image",
+        "type": "png",
+        "url": "https://music-presence.github.io/live-test/v4/icons/aurora/discord-small-image.5b07473f7fbf.png"
+      },
+      {
+        "label": "tray-menu",
+        "type": "ico",
+        "url": "https://music-presence.github.io/live-test/v4/icons/aurora/tray-menu.b0a7020aed23.ico",
+        "md5": "b0a7020aed236286f18856c5a86c1ff1"
       }
     ],
     "bandcamp": [

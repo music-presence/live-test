@@ -705,6 +705,9 @@
       "sources": {
         "win_smtc": [
           "com.aurora.music"
+        ],
+        "lin_mpris": [
+          "aurora"
         ]
       },
       "attributes": {
