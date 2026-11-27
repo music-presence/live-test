@@ -2841,6 +2841,10 @@
           {
             "service": "chromium",
             "identity": "com.github.th-ch.youtube-music"
+          },
+          {
+            "service": "chromium",
+            "identity": "YouTube Music"
           }
         ]
       },
